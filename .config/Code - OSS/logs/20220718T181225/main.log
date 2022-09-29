@@ -1,0 +1,6 @@
+[2022-07-18 18:12:25.753] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-07-18 18:12:27.389] [main] [info] Starting extension host with pid 1621 (fork() took 15 ms).
+[2022-07-18 18:12:28.203] [main] [info] Starting extension host with pid 1675 (fork() took 8 ms).
+[2022-07-18 18:12:34.032] [main] [info] Extension host with pid 1675 exited with code: 0, signal: null.
+[2022-07-18 18:12:36.646] [main] [info] Waiting for extension host with pid 1621 to exit.
+[2022-07-18 18:12:36.654] [main] [info] Extension host with pid 1621 exited with code: 0, signal: null.

@@ -1,0 +1,6 @@
+[2022-07-18 22:25:08.302] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-07-18 22:25:09.850] [main] [info] Starting extension host with pid 1043 (fork() took 10 ms).
+[2022-07-18 22:25:09.885] [main] [info] Starting extension host with pid 1044 (fork() took 9 ms).
+[2022-07-18 22:25:14.610] [main] [info] Extension host with pid 1043 exited with code: 0, signal: null.
+[2022-07-18 22:25:15.598] [main] [info] Waiting for extension host with pid 1044 to exit.
+[2022-07-18 22:25:15.604] [main] [info] Extension host with pid 1044 exited with code: 0, signal: null.
