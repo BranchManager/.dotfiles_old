@@ -7,7 +7,19 @@
 super + Return
 	kitty
 	
+#Turn up brightness
+#super + 0x1008ff02
+#	pkexec brillo -q -A 10
 
+#Turn down brightness
+super + F5
+	brillo -q -U 10
+
+#tuen up da lights (brightness)
+super + F6
+	brillo -q -A 10
+
+	
 # program launcher
 super + @space
 	rofi -show run

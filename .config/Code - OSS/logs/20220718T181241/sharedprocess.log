@@ -1,0 +1,3 @@
+[2022-07-18 18:12:44.226] [sharedprocess] [info] Starting worker process with pid 2071 (type: fileWatcher, window: 1).
+[2022-07-18 18:12:44.560] [sharedprocess] [info] Starting worker process with pid 2096 (type: fileWatcher, window: 2).
+[2022-07-18 18:12:44.883] [sharedprocess] [info] Worker process with pid 2096 terminated normally (type: fileWatcher, window: 2).
