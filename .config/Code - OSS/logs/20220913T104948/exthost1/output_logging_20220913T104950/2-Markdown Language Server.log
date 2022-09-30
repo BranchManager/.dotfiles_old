@@ -1,0 +1,33 @@
+[Trace 14:49:50.747] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_authors/Noah.md
+[Trace 14:49:50.748] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/Waybar.md
+[Trace 14:49:50.748] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/about.md
+[Trace 14:49:50.748] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/new_branch.md
+[Trace 14:49:50.748] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-First_Post.md
+[Trace 14:49:50.748] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-Test-run.md
+[Trace 14:49:50.748] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/categories.md
+[Trace 14:49:50.748] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/index.markdown
+[Trace 14:49:50.750] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_authors/Noah.md
+[Trace 14:49:50.751] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/Waybar.md
+[Debug 14:49:50.752] LinkProvider: compute - file:///home/branchmanager/Blog/MyJekyllBlog/_authors/Noah.md
+[Trace 14:49:50.950] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_authors/Noah.md
+[Trace 14:49:51.150] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/Waybar.md
+[Trace 14:49:51.350] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/about.md
+[Trace 14:49:51.550] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/new_branch.md
+[Trace 14:49:51.751] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-First_Post.md
+[Trace 14:49:51.950] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-Test-run.md
+[Trace 14:49:52.151] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/categories.md
+[Debug 14:49:52.251] MdFoldingProvider: provideFoldingRanges - file:///home/branchmanager/Blog/MyJekyllBlog/_authors/Noah.md
+[Debug 14:49:52.251] TableOfContentsProvider: create - file:///home/branchmanager/Blog/MyJekyllBlog/_authors/Noah.md
+[Trace 14:49:52.352] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/index.markdown
+[Trace 15:01:54.408] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_authors/Noah.md
+[Debug 15:02:06.130] TableOfContentsProvider: create - file:///home/branchmanager/Blog/MyJekyllBlog/_posts/Waybar.md
+[Trace 15:02:06.130] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/Waybar.md
+[Debug 15:02:06.161] LinkProvider: compute - file:///home/branchmanager/Blog/MyJekyllBlog/_posts/Waybar.md
+[Debug 15:02:06.207] MdFoldingProvider: provideFoldingRanges - file:///home/branchmanager/Blog/MyJekyllBlog/_posts/Waybar.md
+[Trace 15:02:06.331] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/about.md
+[Trace 15:02:06.531] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/new_branch.md
+[Trace 15:02:06.731] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-First_Post.md
+[Trace 15:02:06.932] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-Test-run.md
+[Trace 15:02:07.133] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/categories.md
+[Trace 15:02:07.332] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/index.markdown
+[Trace 15:02:07.533] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_authors/Noah.md

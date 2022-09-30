@@ -1,0 +1,4 @@
+[2022-09-19 20:43:32.849] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-09-19 20:43:33.982] [main] [info] Starting extension host with pid 6920 (fork() took 8 ms).
+[2022-09-19 20:43:44.448] [main] [info] Waiting for extension host with pid 6920 to exit.
+[2022-09-19 20:43:44.453] [main] [info] Extension host with pid 6920 exited with code: 0, signal: null.

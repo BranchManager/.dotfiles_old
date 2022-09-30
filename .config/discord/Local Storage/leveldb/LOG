@@ -1,0 +1,7 @@
+2022/08/28-17:43:29.111 ad4f Creating DB /home/branchmanager/.config/discord/Local Storage/leveldb since it was missing.
+2022/08/28-17:43:29.123 ad4f Reusing MANIFEST /home/branchmanager/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/08/28-17:45:32.920 ad4f Level-0 table #5: started
+2022/08/28-17:45:32.931 ad4f Level-0 table #5: 505020 bytes OK
+2022/08/28-17:45:32.933 ad4f Delete type=0 #3
+2022/08/28-17:51:26.506 bc37 Level-0 table #7: started
+2022/08/28-17:51:26.519 bc37 Level-0 table #7: 1111055 bytes OK

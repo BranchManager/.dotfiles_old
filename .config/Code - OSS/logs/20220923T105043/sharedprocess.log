@@ -1,0 +1,6 @@
+[2022-09-23 10:50:45.722] [sharedprocess] [info] Starting worker process with pid 1792 (type: fileWatcher, window: 2).
+[2022-09-23 10:50:45.723] [sharedprocess] [info] Starting worker process with pid 1793 (type: fileWatcher, window: 1).
+[2022-09-23 11:34:40.322] [sharedprocess] [info] Worker process with pid 1792 terminated normally (type: fileWatcher, window: 2).
+[2022-09-25 15:56:55.027] [sharedprocess] [info] Starting worker process with pid 130599 (type: fileWatcher, window: 4).
+[2022-09-26 18:35:26.178] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-30 15:26:38.168] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

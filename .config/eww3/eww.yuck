@@ -1,0 +1,58 @@
+(defwidget user [] 
+	(box :class "genwin":orientation "v" :spacing 0 :space-evenly "false" :vexpand "false" :hexpand "false"
+		;(box :style "background-image: url('https://avatars.githubusercontent.com/u/22553102?v=4');" :class "face" :halign "center")
+		;(label :class "fullname" :halign "center" :wrap "true" :limit-width 25 :text "noah")
+        (label :class "username" :halign "center" :wrap "true" :limit-width 25 :text "jillmanager")
+		;(label :class "username" :halign "center" :wrap "true" :limit-width 2 :text "branchmanager")
+        ))
+
+(defwindow profile :stacking "fg" :focusable "true" :monitor 0 :exclusive "true"
+	    :geometry (geometry :x 150 :y 150 :width 141 :height 145)
+					(user))
+
+;; background
+(defwidget bg [] 
+	(box :class "bg")
+)
+;; background
+(defwindow background :stacking "fg" :focusable "false" :monitor 0
+	    :geometry (geometry :x 0 :y 0 :width "3440px" :height "1440px")
+					(bg))
+
+(defwindow example
+           :monitor 0
+           :geometry (geometry :x "0%"
+                               :y "20px"
+                               :width "90%"
+                               :height "30px"
+                               :anchor "top center")
+           :stacking "fg"
+           :reserve (struts :distance "40px" :side "top")
+           :windowtype "dock"
+           :wm-ignore false
+  "example content")
+
+
+(defwidget bully[]
+    (box :class "reddit" :vexpand "false" :hexpand "false"
+        ;(label :text "ello theh" :halign "center" ))
+    "test"))
+
+(defwindow bul :stacking "fg" :focusable "false" :monitor 0
+	    :geometry (geometry :x 700 :y 785 :width 141 :height 145)
+					(bully))
+
+;; reddit
+(defwindow reddit :stacking "fg" :focusable "true" :monitor 0
+	    :geometry (geometry :x 0 :y 0 :width 300 :height 145 :anchor "top left")
+					(reddit))
+;x:671
+;y:785
+;width 141
+;; reddit
+(defvar showw true)
+(defwidget reddit [] 
+    (eventbox :onhover "eww update showw=true" :onhoverlost "eww update showw=false"
+        (revealer :transition "crossfade" :reveal showw :duration "550ms"
+                (box :class "reddit" :vexpand "false" :hexpand "false" 
+                    (button :class "iconweb" :onclick "scripts/open_links --rd" "樓")))))

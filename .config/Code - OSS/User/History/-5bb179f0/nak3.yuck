@@ -1,0 +1,177 @@
+;(defvar usr "${HOME}" )
+(deflisten get_notif "/home/branchmanager/.config/eww/scripts/notif.sh")
+(defwidget user [] 
+	(box :class "genwin":orientation "v" :spacing 0 :space-evenly "false" :vexpand "false" :hexpand "false"
+		;(box :style "background-image: url('https://avatars.githubusercontent.com/u/22553102?v=4');" :class "face" :halign "center")
+		;(label :class "fullname" :halign "center" :wrap "true" :limit-width 25 :text "noah")
+        (label :class "username" :halign "center" :wrap "true" :limit-width 25 :text "jillmanager")
+		;(label :class "username" :halign "center" :wrap "true" :limit-width 2 :text "branchmanager")
+        ))
+
+(defwindow profile :stacking "fg" :focusable "true" :monitor 0 :exclusive "true"
+	    :geometry (geometry :x 150 :y 150 :width 141 :height 145)
+					(user))
+
+;; background
+(defwidget bg [] 
+	(box :class "bg")
+)
+;; background
+(defwindow background :stacking "fg" :focusable "false" :monitor 0
+	    :geometry (geometry :x 0 :y 0 :width "3440px" :height "1440px")
+					(bg))
+
+(defwindow example
+           :monitor 0
+           :geometry (geometry :x "0%"
+                               :y "20px"
+                               :width "90%"
+                               :height "30px"
+                               :anchor "top center")
+           :stacking "fg"
+           :reserve (struts :distance "40px" :side "top")
+           :windowtype "dock"
+           :wm-ignore false
+  "example content")
+
+
+(defwidget bully[]
+    (box :class "reddit" :vexpand "false" :hexpand "false"
+        ;(label :text "ello theh" :halign "center" ))
+    "test"))
+
+(defwindow bul :stacking "fg" :focusable "false" :monitor 0
+	    :geometry (geometry :x 700 :y 785 :width 141 :height 145)
+					(bully))
+
+
+(defwindow mainbg :stacking "fg" :focusable "false" :monitor 2
+    :geometry (geometry :x 0 :y 0 :anchor "top right" :width 450 :height 1400)
+    (mainbg))
+
+(defwidget mainbg []
+    (revealer :transition "crossfade" :reveal showw :duration "550ms"
+        (box :class "the_main_bg" :orientation "v"
+        
+        )
+    )
+)
+(defwindow profile :stacking "overlay" :monitor 0 :focusable "false" :monitor 2
+  :geometry (geometry :x 3005 :y 10 :width 120 :height 120)
+  (profile_box))
+(defwidget profile_box []
+    (box :class "profilebox" :orientation "v" :space-evenly "false" :vexpand "false" :hexpand "false"
+        (box :style "background-image: url('/home/branchmanager/Pictures/profile_pics/Branch_ManagerAvatar.jpg')" :class "prof_pic" :halign "center")
+        (label :class "prof_name" :valign "center" :limit-width 25 :text "Noah")
+    )
+)
+;; reddit
+(defwindow reddit :stacking "fg" :focusable "false" :monitor 0 :windowtype "overlay"
+	    :geometry (geometry :x 0 :y 0 :width 300 :height 145 :anchor "top left")
+					(reddit))
+;x:671
+;y:785
+;width 141
+;; reddit
+(defvar showw true)
+(defvar showwe true)
+(defwidget reddit [] 
+    (eventbox :onhover "eww update showw=true" :onhoverlost "eww update showw=false"
+        (revealer :transition "slideup" :reveal showw :duration "550ms"
+                (box :class "reddit" :vexpand "false" :hexpand "false" 
+                    (label :text "ello theh" :halign "center" )
+                )
+        )
+    )
+)
+
+(defvar weatherimage "/home/branchmanager/.config/eww/images/weather_icon/01.jpg")
+(defvar weather_icon "N/A")
+(defvar temp "N/A")
+(defvar desc "N/A")
+(defvar feels "N/A")
+(defvar high "N/A")
+(defvar low "N/A")
+(defvar sunrise "N/A")
+(defvar sunset "N/A")
+(defwidget weather[]
+    (revealer :transition "crossfade" :reveal showwe :duration "550ms" 
+        (box :class "weather" 
+            :space-evenly "true"
+            :vexpand "false" 
+            :hexpand "false"
+            :style "background-image: url('${weatherimage}'); border-radius: 10px";
+            :orientation "h"
+            ;;;;;;;;;;;;;;;;;;;;;;Icon and high low;;;;;;;;;;;;;;;;;;;
+            (box :orientation "v"  :halign "center" :vexpand "false" :hexpand "false" :spacing 0
+                (box  :halign "start" :valign "end" :vexpand "false" :hexpand "false" :spacing 0
+                    (label :class "weather_icon" :text weather_icon)
+                )
+                (box :class "weather_bgtxt" :orientation "v" :valign "start" :vexpand "false" :hexpand "false" :spacing 0
+                    (label :class "test1" :text high)
+                    (label :class "test1" :text low)
+                    
+                )
+                
+                ;(label :class "weather_label" :text desc)
+                 
+            )
+            ;;;;;;;;;;;;Temperature and feels like;;;;;;;;;;;;;;;;;;;;;;;
+            (box :orientation "v" :class "weather_bgtxt" :valign "center" :halign "end" :vexpand "false" :hexpand "false" :space-evenly false :spacing 0
+                (box  :halign "center" :valign "end" :vexpand "false" :hexpand "false" :spacing 10
+                    (label :class "temp" :text temp)
+                )
+                (box :class "weather_bgtxt" :valign "start" :vexpand "false" :hexpand "false" :spacing 10
+                    (label :class "test1" :hexpand "false" :vexpand "false" :width 10 :text feels)
+                )
+                ;(label :class "weather_label" :text desc)
+                 
+            )
+            ;;;;;;;;;;;;Desc and sunrise sunset;;;;;;;;;;;;;;;;;;;;;;;
+            (box :orientation "v" :class "weather_bgtxt" :halign "end" :vexpand "false" :hexpand "false" :spacing 30
+                (box :class "weather_bgtxt" :valign "start" :vexpand "false" :hexpand "false" :spacing 0
+                    (label :class "test1" :text desc)
+                )
+                (box :class "weather_bgtxt" :orientation "v" :valign "start" :vexpand "false" :hexpand "false" :spacing 0
+                    (label :class "test1" :text sunrise)
+                    (label :class "test1" :text sunset)
+                )
+                ;(label :class "weather_label" :text desc)
+                 
+            )
+            
+        )
+        
+    )
+    
+)
+
+(defwindow weather :stacking "overlay" :monitor 0 :focusable "false" :monitor 2
+  :geometry (geometry :x 3135 :y 10 :width 295 :height 120)
+  (weather))
+;https://api.openweathermap.org/data/2.5/weather?appid=
+;(button :class "iconweb" :onclick "scripts/open_links --rd" "樓")
+
+;;;;10 pix between profile and weather;;;;;
+
+;;;;;;;;;;notification widget;;;;;;;;;;;;;;;;;;;;
+(defwidget notification []
+    (box :class "notifs" 
+            :space-evenly "true"
+            :vexpand "false" 
+            :hexpand "false"
+           
+            :orientation "h"
+            (label :class "weather_label" :text "test")
+           ;(literal: content get_notif)
+    )
+)
+
+;(defwidget notifcard []
+;    (label: )
+;)
+
+(defwindow notif_area :stacking "overlay" :monitor 0 :focusable "false" :monitor 2 
+    :geometry (geometry :x 3005 :y 140 :width 425 :height 400)
+(notification)
+)

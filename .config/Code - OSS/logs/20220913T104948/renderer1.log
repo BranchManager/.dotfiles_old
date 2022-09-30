@@ -1,0 +1,5 @@
+[2022-09-13 11:02:00.991] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+[2022-09-13 11:02:06.113] [renderer1] [warning] [backup tracker] suspended, ignoring unregister event git:/home/branchmanager/Blog/MyJekyllBlog/_drafts/potential_post_drafts.git?%7B%22path%22%3A%22%2Fhome%2Fbranchmanager%2FBlog%2FMyJekyllBlog%2F_drafts%2Fpotential_post_drafts%22%2C%22ref%22%3A%22%22%7D 
+[2022-09-13 11:02:06.316] [renderer1] [warning] [backup tracker] suspended, ignoring register event git:/home/branchmanager/Blog/MyJekyllBlog/_posts/Waybar.md.git?%7B%22path%22%3A%22%2Fhome%2Fbranchmanager%2FBlog%2FMyJekyllBlog%2F_posts%2FWaybar.md%22%2C%22ref%22%3A%22%22%7D 
+[2022-09-13 11:02:10.326] [renderer1] [warning] [backup tracker] suspended, ignoring dirty change event file:///home/branchmanager/Blog/MyJekyllBlog/_posts/Waybar.md 
+[2022-09-13 11:02:10.332] [renderer1] [warning] [backup tracker] suspended, ignoring dirty change event file:///home/branchmanager/Blog/MyJekyllBlog/_authors/Noah.md 

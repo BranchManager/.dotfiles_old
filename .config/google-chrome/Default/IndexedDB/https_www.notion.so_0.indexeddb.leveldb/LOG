@@ -1,0 +1,7 @@
+2022/08/15-01:04:45.665 32ef4 Reusing MANIFEST /home/branchmanager/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/15-01:04:45.665 32ef4 Recovering log #3
+2022/08/15-01:04:45.665 32ef4 Reusing old log /home/branchmanager/.config/google-chrome/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000003.log 
+2022/08/15-01:04:46.085 32ef4 Level-0 table #5: started
+2022/08/15-01:04:46.091 32ef4 Level-0 table #5: 2898 bytes OK
+2022/08/15-01:04:46.098 32ef4 Delete type=0 #3
+2022/08/15-01:04:46.098 32ef4 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

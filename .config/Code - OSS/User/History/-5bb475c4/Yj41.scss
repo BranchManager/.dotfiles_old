@@ -1,0 +1,70 @@
+.bg {
+	//background-image: url("images/bg.png");
+	background-color: #474D59;
+	opacity: 0.2;
+}
+.genwin {
+	background-color: #D46389;
+    //#2E3440;
+	border-radius: 30px;
+}
+
+.face {
+	background-size: 200px;
+	min-height: 200px;
+	min-width: 200px;
+	margin: 65px 0px 0px 0px;
+	border-radius: 100%;
+}
+
+.fullname {
+	color: #D46389;
+	font-size : 30px;
+	font-weight : bold;
+}
+
+.username {
+	color: #8FBCBB;
+    
+	font-size : 22px;
+	font-weight : bold;
+	margin : -15px 0px 0px 0px;
+}
+
+.reddit {
+	background-color: #E46231;
+	border-radius: 15px;
+}
+
+.iconweb, .iconmail {
+	color: #FFFFFF;
+	font-family: Iosevka Nerd Font;
+	font-size : 70px;
+	font-weight : normal;
+}
+
+.the_main_bg{
+	color: #2d3436;
+	//#24273a;
+	border-left: 3px solid #5b6078;
+}
+
+.profilebox{
+	
+	background-color: #24273a;
+	border-radius: 10%;
+}
+
+.prof_name{
+	color: #FFFFFF;
+	font-family: Iosevka Nerd Font;
+}
+
+.prof_pic{
+	border-radius: 100%;
+	background-size:75px;
+    min-height: 75px;
+    min-width: 75px;
+    margin: 20px 0px 0px 0px;
+ 
+}

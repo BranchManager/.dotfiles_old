@@ -1,0 +1,4 @@
+[2022-09-20 16:01:06.126] [renderer1] [error] spawn xterm ENOENT: Error: spawn xterm ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:478:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)

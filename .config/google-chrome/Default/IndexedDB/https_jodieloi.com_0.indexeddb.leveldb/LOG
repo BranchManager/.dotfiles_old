@@ -1,0 +1,6 @@
+2022/08/15-01:00:00.216 3155f Creating DB /home/branchmanager/.config/google-chrome/Default/IndexedDB/https_jodieloi.com_0.indexeddb.leveldb since it was missing.
+2022/08/15-01:00:00.229 3155f Reusing MANIFEST /home/branchmanager/.config/google-chrome/Default/IndexedDB/https_jodieloi.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/15-01:00:00.949 3233c Level-0 table #5: started
+2022/08/15-01:00:00.954 3233c Level-0 table #5: 2627 bytes OK
+2022/08/15-01:00:00.961 3233c Delete type=0 #3
+2022/08/15-01:00:00.961 3233c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

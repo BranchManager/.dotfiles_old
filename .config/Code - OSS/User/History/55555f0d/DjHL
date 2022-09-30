@@ -1,0 +1,20 @@
+#####################################################
+waybar issue
+diown command
+https://github.com/Alexays/Waybar/issues/991
+
+
+
+
+
+
+
+
+
+
+
+
+##############################new post bewlow######################
+
+Setting theme on arch . If you are using gnome tools or really any tools that use GTK you may wan tthem to fit the theme of some of your other things. Many resources will say lxappearance but infortuantely that didn't work for me. It was a great way to preview a theme however it didn't set anything for me. I'm not sure if it is because I'm on wayalnd or what. however dconf-editor seemed to work wonders. 
+After using lxappearance to preview a theme I could install and run dconf-editor then fo to /org/gnome/dektoop/interface/icon-theme and where it says "gtk-theme" I could manually specify what I wanted based on what I previewed in lxappearance. 

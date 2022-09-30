@@ -1,0 +1,21 @@
+[2022-09-23 10:50:43.721] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-09-23 10:50:45.129] [main] [info] Starting extension host with pid 1717 (fork() took 7 ms).
+[2022-09-23 10:50:45.196] [main] [info] Starting extension host with pid 1726 (fork() took 4 ms).
+[2022-09-23 11:34:40.324] [main] [info] Extension host with pid 1726 exited with code: 0, signal: null.
+[2022-09-25 15:56:54.749] [main] [info] Starting extension host with pid 130584 (fork() took 7 ms).
+[2022-09-30 16:28:35.246] [main] [info] Extension host with pid 1717 exited with code: null, signal: SIGTERM.
+[2022-09-30 16:28:35.257] [main] [info] Extension host with pid 130584 exited with code: null, signal: SIGTERM.
+[2022-09-30 16:28:35.295] [main] [error] [uncaught exception in main]: Error: SharedProcess: crashed (detail: killed, code: 15)
+[2022-09-30 16:28:35.295] [main] [error] Error: SharedProcess: crashed (detail: killed, code: 15)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:77:77826
+    at E.invoke (/usr/lib/code/out/vs/code/electron-main/main.js:19:145)
+    at v.deliver (/usr/lib/code/out/vs/code/electron-main/main.js:19:2272)
+    at b.fire (/usr/lib/code/out/vs/code/electron-main/main.js:19:1850)
+    at /usr/lib/code/out/vs/code/electron-main/main.js:17:20466
+    at E.invoke (/usr/lib/code/out/vs/code/electron-main/main.js:19:145)
+    at v.deliver (/usr/lib/code/out/vs/code/electron-main/main.js:19:2272)
+    at b.fire (/usr/lib/code/out/vs/code/electron-main/main.js:19:1850)
+    at EventEmitter.<anonymous> (/usr/lib/code/out/vs/code/electron-main/main.js:74:106866)
+    at EventEmitter.emit (node:events:538:35)
+[2022-09-30 16:28:35.297] [main] [error] CodeWindow: renderer process crashed (reason: killed, code: 15)
+[2022-09-30 16:28:35.327] [main] [error] CodeWindow: renderer process crashed (reason: killed, code: 15)

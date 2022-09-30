@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /index.html
+  - title: "About"
+    url: /about.html
+  - title: "Categories"
+    url: /categories.html
+  - title: "Tags"
+    url: /tags.html
+  #- title: "Pages"
+  #  url: /page-archive/
+  #- title: "Collections"
+  #  url: /collection-archive/
+  #- title: "External Link"
+  #  url: https://google.com

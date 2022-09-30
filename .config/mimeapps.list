@@ -1,0 +1,7 @@
+[Added Associations]
+application/x-tar=kitty.desktop;
+text/plain=userapp-code %f-4LWMQ1.desktop;userapp-code %U-CDZWQ1.desktop;vim.desktop;gcr-viewer.desktop;electron18.desktop;code-oss.desktop;
+application/x-desktop=code-oss.desktop;
+application/x-shellscript=kitty-open.desktop;userapp-code %f-4LWMQ1.desktop;
+inode/directory=code-oss.desktop;kitty-open.desktop;
+image/svg+xml=code-oss.desktop;

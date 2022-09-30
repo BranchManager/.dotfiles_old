@@ -1,0 +1,24 @@
+2022/08/15-02:29:58.845 3 Reusing MANIFEST /home/branchmanager/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/08/15-02:29:58.845 3 Recovering log #11
+2022/08/15-02:29:58.847 3 Reusing old log /home/branchmanager/.config/google-chrome/Default/Local Storage/leveldb/000011.log 
+2022/08/15-03:22:28.151 3 Level-0 table #15: started
+2022/08/15-03:22:28.158 3 Level-0 table #15: 118848 bytes OK
+2022/08/15-03:22:28.161 3 Delete type=0 #11
+2022/08/15-03:45:37.576 f Level-0 table #17: started
+2022/08/15-03:45:37.582 f Level-0 table #17: 33506 bytes OK
+2022/08/15-03:45:37.585 f Delete type=0 #14
+2022/08/15-03:45:37.585 f Compacting 4@0 + 1@1 files
+2022/08/15-03:45:37.593 f Generated table #18@0: 149 keys, 212212 bytes
+2022/08/15-03:45:37.593 f Compacted 4@0 + 1@1 files => 212212 bytes
+2022/08/15-03:45:37.595 f compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/15-03:45:37.596 f Delete type=2 #15
+2022/08/15-03:45:37.596 f Delete type=2 #12
+2022/08/15-03:45:37.596 f Delete type=2 #17
+2022/08/15-03:45:37.596 f Delete type=2 #10
+2022/08/15-03:45:37.596 f Delete type=2 #8
+2022/08/15-04:02:31.021 16 Level-0 table #20: started
+2022/08/15-04:02:31.027 16 Level-0 table #20: 15780 bytes OK
+2022/08/15-04:02:31.030 16 Delete type=0 #16
+2022/08/15-04:14:51.110 1e Level-0 table #22: started
+2022/08/15-04:14:51.116 1e Level-0 table #22: 13591 bytes OK
+2022/08/15-04:14:51.119 1e Delete type=0 #19

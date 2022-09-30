@@ -1,0 +1,27 @@
+file:///home/branchmanager/Blog/MyJekyllBlog/_drafts/2022-09-25_Eww_Weather.md {"mtime":1664136160764,"ctime":1664136133504,"size":175,"etag":"39dk76doh5k","orphaned":false,"typeId":""}
+---
+layout: single
+title:  Getting Eww to the Weather
+date:   
+author: Noah
+
+categories: 
+  - Ricing
+  - EWW
+  - Python
+tags: 
+ - Rice
+
+categories_label: "Categories: "
+
+toc: true
+---
+
+# Eww to the Weather
+
+For starters this structure may get changed in the future the more I learn about EWW's widget system.
+
+For those that don't know what eww is It's a system used to develop widgets and tools for your destktop environment written in rust. There are some nice eww rices in the [unixport](https://www.reddit.com/r/unixporn/) if you know where to look.Some people have some nifty little tools in there including CPU, and ram monitors. While I'm still in the middle of learning and building my eww setup
+, I have managed to create a nice weather widget. My goal is to share how I did that.
+
+First you'll need to 

@@ -1,0 +1,15 @@
+[2022-09-13 10:49:50.278] [exthost] [info] Extension host with pid 8077 started
+[2022-09-13 10:49:50.278] [exthost] [info] Skipping acquiring lock for /home/branchmanager/.config/Code - OSS/User/workspaceStorage/aa671aff06cc48608621debeae5e77b3.
+[2022-09-13 10:49:50.506] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-09-13 10:49:50.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-09-13 10:49:50.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-13 10:49:50.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-13 10:49:50.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-13 10:49:50.594] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-13 10:49:50.621] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-13 10:49:50.649] [exthost] [info] Eager extensions activated
+[2022-09-13 10:49:50.678] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-13 10:49:50.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-13 10:49:50.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-09-13 11:02:10.375] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-13 11:02:10.381] [exthost] [info] Extension host with pid 8077 exiting with code 0
