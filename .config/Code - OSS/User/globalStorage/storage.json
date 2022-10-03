@@ -48,23 +48,23 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/branchmanager/Blog/MyJekyllBlog",
-                                        "path": "/home/branchmanager/Blog/MyJekyllBlog",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Blog/MyJekyllBlog"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/branchmanager/.config/eww",
                                         "path": "/home/branchmanager/.config/eww",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/.config/eww"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/branchmanager/Blog/MyJekyllBlog",
+                                        "path": "/home/branchmanager/Blog/MyJekyllBlog",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Blog/MyJekyllBlog"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -606,8 +606,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -832,7 +831,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -841,7 +841,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1144,7 +1145,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1728,9 +1730,9 @@
             "folder": "file:///home/branchmanager/.config/eww",
             "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/dd2263d3c3c66b30bd9cbed1b1fcff0f",
             "uiState": {
-                "mode": 1,
-                "x": 0,
-                "y": 0,
+                "mode": 0,
+                "x": 7826,
+                "y": 42,
                 "width": 1689,
                 "height": 1350
             }
@@ -1740,9 +1742,9 @@
                 "folder": "file:///home/branchmanager/.config/eww",
                 "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/dd2263d3c3c66b30bd9cbed1b1fcff0f",
                 "uiState": {
-                    "mode": 1,
-                    "x": 0,
-                    "y": 0,
+                    "mode": 0,
+                    "x": 7826,
+                    "y": 42,
                     "width": 1689,
                     "height": 1350
                 }
@@ -1751,9 +1753,9 @@
                 "folder": "file:///home/branchmanager/Blog/MyJekyllBlog",
                 "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/1bbebd611c85f1e7a4818e8db884c810",
                 "uiState": {
-                    "mode": 1,
-                    "x": 0,
-                    "y": 0,
+                    "mode": 0,
+                    "x": 8514,
+                    "y": 42,
                     "width": 1864,
                     "height": 2070
                 }

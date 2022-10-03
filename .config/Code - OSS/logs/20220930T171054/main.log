@@ -1,0 +1,3 @@
+[2022-09-30 17:10:55.144] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-09-30 17:10:56.526] [main] [info] Starting extension host with pid 6467 (fork() took 6 ms).
+[2022-09-30 17:10:56.563] [main] [info] Starting extension host with pid 6474 (fork() took 3 ms).

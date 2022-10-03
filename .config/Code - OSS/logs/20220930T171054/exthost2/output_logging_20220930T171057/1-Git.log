@@ -1,0 +1,24 @@
+[2022-09-30T21:10:57.407Z] Log level: Info
+[2022-09-30T21:10:57.408Z] [info] Validating found git in: git
+[2022-09-30T21:10:57.415Z] [info] Using git 2.37.3 from git
+[2022-09-30T21:10:57.426Z] > git rev-parse --show-toplevel [3ms]
+[2022-09-30T21:10:57.432Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-09-30T21:10:57.435Z] [info] Open repository: /home/branchmanager/Blog/MyJekyllBlog
+[2022-09-30T21:10:57.447Z] > git status -z -uall [8ms]
+[2022-09-30T21:10:57.452Z] > git symbolic-ref --short HEAD [1ms]
+[2022-09-30T21:10:57.469Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Website refs/remotes/Website [13ms]
+[2022-09-30T21:10:57.480Z] > git remote --verbose [5ms]
+[2022-09-30T21:10:57.481Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2022-09-30T21:10:57.494Z] > git config --get commit.template [6ms]
+[2022-09-30T21:10:57.502Z] > git status -z -uall [2ms]
+[2022-09-30T21:10:57.508Z] > git symbolic-ref --short HEAD [2ms]
+[2022-09-30T21:10:57.514Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Website refs/remotes/Website [2ms]
+[2022-09-30T21:10:57.520Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-09-30T21:10:57.521Z] > git remote --verbose [2ms]
+[2022-09-30T21:10:57.525Z] > git config --get commit.template [1ms]
+[2022-09-30T21:10:57.764Z] > git show --textconv :_drafts/2022-09-25_Eww_Weather.md [11ms]
+[2022-09-30T21:10:57.764Z] > git show --textconv :_posts/2022-08-15-welcome-to-jekyll.markdown [7ms]
+[2022-09-30T21:10:57.764Z] > git ls-files --stage -- /home/branchmanager/Blog/MyJekyllBlog/_drafts/2022-09-25_Eww_Weather.md [4ms]
+[2022-09-30T21:10:57.765Z] > git ls-files --stage -- /home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-welcome-to-jekyll.markdown [1ms]
+[2022-09-30T21:10:57.769Z] > git cat-file -s b754caccf3c86f174b5bad5174a342a307525274 [1ms]
+[2022-09-30T21:10:57.973Z] > git check-ignore -v -z --stdin [1ms]
