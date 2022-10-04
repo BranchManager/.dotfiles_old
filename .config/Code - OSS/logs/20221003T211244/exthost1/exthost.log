@@ -1,0 +1,13 @@
+[2022-10-03 21:12:46.847] [exthost] [info] Extension host with pid 1094 started
+[2022-10-03 21:12:46.999] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-10-03 21:12:47.042] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-03 21:12:47.046] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-10-03 21:12:47.051] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-03 21:12:47.185] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-03 21:12:47.211] [exthost] [info] Eager extensions activated
+[2022-10-03 21:12:47.213] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-03 21:12:47.228] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-03 21:13:10.596] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-03 21:13:10.605] [exthost] [error] Error: read ECONNRESET
+	at Pipe.onStreamRead (node:internal/stream_base_commons:217:20)
+[2022-10-03 21:13:10.607] [exthost] [info] Extension host with pid 1094 exiting with code 0

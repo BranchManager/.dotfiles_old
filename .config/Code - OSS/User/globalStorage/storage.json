@@ -32,7 +32,7 @@
                         "label": "Open Wor&&kspace from File..."
                     },
                     {
-                        "id": "submenuitem.37",
+                        "id": "submenuitem.MenubarRecentMenu",
                         "label": "Open &&Recent",
                         "submenu": {
                             "items": [
@@ -48,12 +48,23 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/branchmanager/.config/Waybar/resources/config",
-                                        "path": "/home/branchmanager/.config/Waybar/resources/config",
+                                        "external": "file:///home/branchmanager/.config/waybar/style.css",
+                                        "path": "/home/branchmanager/.config/waybar/style.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/Waybar/resources/config"
+                                    "label": "~/.config/waybar/style.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/branchmanager/.config/waybar/config",
+                                        "path": "/home/branchmanager/.config/waybar/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/waybar/config"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -65,6 +76,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.config/Waybar/resources/style.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/branchmanager/.config/Waybar/resources/config",
+                                        "path": "/home/branchmanager/.config/Waybar/resources/config",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/Waybar/resources/config"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -122,7 +144,7 @@
                         "label": "A&&uto Save"
                     },
                     {
-                        "id": "submenuitem.36",
+                        "id": "submenuitem.MenubarPreferencesMenu",
                         "label": "&&Preferences",
                         "submenu": {
                             "items": [
@@ -357,7 +379,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.25",
+                        "id": "submenuitem.MenubarAppearanceMenu",
                         "label": "&&Appearance",
                         "submenu": {
                             "items": [
@@ -378,30 +400,31 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleMenuBar",
-                                    "label": "Show Menu &&Bar",
+                                    "label": "Menu &&Bar",
                                     "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Primary Side Bar"
+                                    "label": "&&Primary Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
-                                    "label": "Show Secondary Si&&de Bar"
+                                    "label": "Secondary Si&&de Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
-                                    "label": "Show S&&tatus Bar",
+                                    "label": "S&&tatus Bar",
                                     "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleActivityBarVisibility",
-                                    "label": "Show &&Activity Bar",
+                                    "label": "&&Activity Bar",
                                     "checked": true
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -411,7 +434,7 @@
                                     "label": "&&Move Primary Side Bar Right"
                                 },
                                 {
-                                    "id": "submenuitem.35",
+                                    "id": "submenuitem.MenubarPanelPositionMenu",
                                     "label": "Panel Position",
                                     "submenu": {
                                         "items": [
@@ -432,7 +455,7 @@
                                     }
                                 },
                                 {
-                                    "id": "submenuitem.34",
+                                    "id": "submenuitem.MenubarPanelAlignmentMenu",
                                     "label": "Align Panel",
                                     "submenu": {
                                         "items": [
@@ -475,7 +498,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.32",
+                        "id": "submenuitem.MenubarLayoutMenu",
                         "label": "Editor &&Layout",
                         "submenu": {
                             "items": [
@@ -598,12 +621,12 @@
                     },
                     {
                         "id": "editor.action.toggleMinimap",
-                        "label": "Show &&Minimap",
+                        "label": "&&Minimap",
                         "checked": true
                     },
                     {
                         "id": "breadcrumbs.toggle",
-                        "label": "Show &&Breadcrumbs",
+                        "label": "&&Breadcrumbs",
                         "checked": true
                     },
                     {
@@ -615,6 +638,10 @@
                         "id": "editor.action.toggleRenderControlCharacter",
                         "label": "Render &&Control Characters",
                         "checked": true
+                    },
+                    {
+                        "id": "editor.action.toggleStickyScroll",
+                        "label": "&&Sticky Scroll"
                     }
                 ]
             },
@@ -637,7 +664,7 @@
                         "id": "vscode.menubar.separator"
                     },
                     {
-                        "id": "submenuitem.40",
+                        "id": "submenuitem.MenubarSwitchEditorMenu",
                         "label": "Switch &&Editor",
                         "submenu": {
                             "items": [
@@ -686,7 +713,7 @@
                         }
                     },
                     {
-                        "id": "submenuitem.41",
+                        "id": "submenuitem.MenubarSwitchGroupMenu",
                         "label": "Switch &&Group",
                         "submenu": {
                             "items": [
@@ -888,7 +915,7 @@
                         "label": "Toggle &&Breakpoint"
                     },
                     {
-                        "id": "submenuitem.33",
+                        "id": "submenuitem.MenubarNewBreakpointMenu",
                         "label": "&&New Breakpoint",
                         "submenu": {
                             "items": [
@@ -943,8 +970,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1520,13 +1546,13 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/1660095591534",
+            "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/1664846168331",
             "uiState": {
                 "mode": 1,
-                "x": 22,
-                "y": 22,
-                "width": 1876,
-                "height": 1006
+                "x": 23,
+                "y": 67,
+                "width": 1874,
+                "height": 990
             }
         },
         "openedWindows": []

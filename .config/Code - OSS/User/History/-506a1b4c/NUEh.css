@@ -248,16 +248,7 @@ label:focus {
     background-color: #2980b9;
 }
 
-#network.wifi{
-    background-color: #a6da95;
-    margin-bottom: 8px;
-    margin-top:4px;
-   /* background-color: #b7bdf8;*/
-   font-size: 16;
-    border-radius: 5px;
-    padding: 0px 10px ;
-    color:  	#cad3f5;
-}
+#network.wifi,
 #network.ethernet{
     
     background-color: #a6da95;
