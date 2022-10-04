@@ -61,6 +61,17 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/branchmanager/.config/waybar/rofi_configs/powermenu.sh",
+                                        "path": "/home/branchmanager/.config/waybar/rofi_configs/powermenu.sh",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/waybar/rofi_configs/powermenu.sh"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/branchmanager/.config/hypr/hyprland.conf",
                                         "path": "/home/branchmanager/.config/hypr/hyprland.conf",
                                         "scheme": "file"
@@ -135,8 +146,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -430,7 +440,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -976,8 +987,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1562,8 +1572,8 @@
             "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/ef8cc761223387368bc2af10e6d35a6b",
             "uiState": {
                 "mode": 1,
-                "x": 23,
-                "y": 67,
+                "x": 0,
+                "y": 0,
                 "width": 929,
                 "height": 990
             }

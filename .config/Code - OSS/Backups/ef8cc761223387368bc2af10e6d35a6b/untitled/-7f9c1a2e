@@ -1,0 +1,44 @@
+untitled:Untitled-1 {"typeId":""}
+Notes:
+
+General purpose instance types 
+- Balances comput memory and noetworking 
+- suitable for braod rand of workloads
+-ideal for variety of workloads
+Compute Optimized
+-high-eperformance
+-for comput intensive
+Accelerated computing
+-ideal for high graphic computing
+Storage Optimized
+-data warehouse
+Memory Optimized
+-high performance databases
+On-Demand Price
+Spot
+-ideal for workloads with flexible startts sne end times
+-savings over On demand
+Dedicated Instance
+-An EC2 instance that runs na a VPC on HW for a single operator
+-Higher cost compared to standard amazon EC2 instances
+Dedicated host
+-no sharing single operator EC2 operator
+-most expensive
+Messaging Services
+_____________________________
+SNS-simple notification service
+-messages are published to topics
+-subscribers immedicatly recive messages for their topics
+SQS -Simple Queue Service
+-Queue messages w/o requiring othre services to be available 
+Serverless Compute services
+_________________________________
+dont need to worry abour provisioning just upload code
+AWS lambda
+- functions
+- Pay as you go
+- serverless compute
+
+ECS-Docker (Elastic container service)
+EKS (kubernetes)
+The above are used to run and scale containerized applications

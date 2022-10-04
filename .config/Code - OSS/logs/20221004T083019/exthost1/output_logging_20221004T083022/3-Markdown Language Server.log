@@ -1,0 +1,1636 @@
+[Trace 13:28:41.676] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:41.680] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:28:41.683] LinkProvider: compute - untitled:Untitled-1
+[Debug 13:28:41.880] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:28:41.881] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:28:41.969] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:28:42.146] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:28:42.146] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:28:42.520] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:42.702] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:28:42.886] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:28:42.887] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:28:42.940] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:43.017] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:43.124] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:43.252] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:28:43.437] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:28:43.437] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:28:43.458] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:43.562] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:43.724] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:43.844] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:44.007] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:44.203] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:44.351] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:28:44.536] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:28:44.536] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:28:44.801] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:44.995] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:45.115] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:45.304] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:45.495] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:45.584] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:45.735] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:45.865] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:28:45.982] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:28:46.168] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:28:46.168] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:28:46.972] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:31:32.763] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:32.953] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:32.954] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:33.548] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:33.734] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:33.734] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:33.812] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:33.991] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:33.991] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:34.025] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:34.212] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:34.374] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:34.552] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:34.737] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:34.737] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:34.776] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:34.962] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:35.146] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:35.146] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:35.339] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:35.522] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:35.523] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:35.721] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:35.906] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:35.906] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:35.989] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:36.145] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:36.286] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:36.465] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:36.574] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:36.760] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:36.760] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:36.812] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:37.036] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:37.037] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:37.038] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:37.216] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:37.217] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:37.302] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:37.486] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:37.487] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:31:38.292] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:31:40.229] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:40.413] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:40.414] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:31:41.217] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:31:42.762] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:42.960] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:42.960] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:31:43.765] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:31:43.957] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:44.112] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:44.297] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:44.297] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:44.496] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:44.681] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:44.681] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:44.924] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:45.109] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:45.109] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:45.187] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:45.385] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:45.385] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:45.739] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:45.924] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:45.924] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:46.142] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:46.328] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:46.329] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:46.372] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:46.547] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:46.667] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:46.844] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:46.961] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:47.139] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:47.323] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:47.507] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:47.507] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:48.306] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:48.475] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:48.585] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:48.699] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:48.786] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:48.954] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:48.955] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:49.150] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:49.150] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:49.207] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:49.388] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:49.571] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:49.571] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:49.653] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:49.838] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:49.839] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:49.915] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:50.034] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:50.218] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:50.219] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:50.268] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:50.466] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:50.536] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:50.720] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:50.720] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:50.919] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:51.080] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:51.265] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:51.265] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:31:52.070] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:31:52.263] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:52.447] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:52.447] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:52.837] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:53.021] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:53.022] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:53.407] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:53.592] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:53.593] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:53.636] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:53.822] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:53.822] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:53.851] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:53.973] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:54.125] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:54.310] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:54.310] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:54.776] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:54.961] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:54.961] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:55.288] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:55.472] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:55.472] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:55.809] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:55.984] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:56.102] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:56.227] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:56.346] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:56.440] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:56.552] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:56.737] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:56.738] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:56.779] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:56.919] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:57.057] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:57.242] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:57.242] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:57.268] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:57.380] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:57.520] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:57.665] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:57.849] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:57.849] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:57.951] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:58.110] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:58.223] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:58.377] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:58.544] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:31:58.695] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:58.876] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:58.876] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:59.053] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:59.237] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:59.238] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:31:59.332] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:31:59.520] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:31:59.521] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:00.223] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:00.412] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:00.603] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:00.603] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:00.894] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:01.073] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:01.261] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:01.261] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:32:02.063] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:32:02.655] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:02.844] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:02.845] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:32:03.651] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:32:03.884] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:04.082] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:04.082] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:04.530] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:04.702] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:04.839] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:04.938] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:05.032] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:05.149] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:05.298] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:05.483] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:05.484] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:05.596] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:05.683] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:05.825] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:06.011] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:06.011] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:06.052] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:06.182] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:06.352] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:06.475] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:06.558] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:06.730] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:06.804] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:06.995] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:06.995] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:07.036] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:07.220] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:07.221] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:07.297] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:07.495] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:07.496] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:07.601] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:07.780] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:07.932] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:07.956] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:08.088] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:08.227] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:08.413] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:08.413] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:08.487] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:08.611] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:08.797] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:08.797] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:32:09.597] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:32:10.409] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:10.614] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:10.614] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:10.614] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:10.822] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:10.822] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:10.823] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:11.034] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:11.034] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:11.034] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:11.217] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:11.217] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:11.497] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:11.682] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:11.682] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:11.726] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:11.911] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:11.912] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:11.934] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:11.995] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:12.194] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:12.194] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:12.299] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:12.497] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:12.497] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:12.665] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:12.815] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:12.931] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:13.103] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:13.288] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:13.288] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:13.543] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:13.727] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:13.728] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:13.856] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:14.041] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:14.041] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:14.383] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:14.569] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:14.569] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:14.845] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:15.030] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:15.030] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:15.067] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:15.240] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:15.425] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:15.426] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:15.842] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:15.978] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:16.126] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:16.311] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:16.311] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:16.380] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:16.541] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:16.726] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:16.727] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:16.770] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:16.968] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:16.968] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:17.013] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:17.211] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:17.212] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:32:18.017] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:32:30.218] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:30.404] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:30.404] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:31.035] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:31.233] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:31.233] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:31.287] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:31.485] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:31.485] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:31.603] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:31.789] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:31.789] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:31.885] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:32.036] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:32.196] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:32.382] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:32.382] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:32.438] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:32.623] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:32.623] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:32.696] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:32.880] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:32.880] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:33.044] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:33.173] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:33.374] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:33.560] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:33.560] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:33.599] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:33.730] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:33.916] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:33.916] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:33.971] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:34.157] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:34.157] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:32:34.962] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:32:36.425] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:36.611] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:36.611] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:32:37.415] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:32:37.963] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:38.161] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:38.161] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:38.611] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:38.771] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:38.956] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:38.957] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:38.980] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:39.160] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:39.252] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:39.381] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:39.569] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:39.569] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:39.639] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:39.774] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:39.911] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:39.997] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:40.087] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:40.285] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:40.285] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:40.929] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:41.062] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:41.199] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:41.337] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:41.403] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:41.595] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:41.639] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:41.824] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:42.013] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:42.131] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:42.266] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:42.411] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:42.539] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:42.691] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:42.877] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:42.877] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:42.916] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:43.107] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:43.297] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:43.297] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:43.819] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:44.006] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:44.006] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:44.102] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:44.288] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:44.288] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:44.899] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:45.085] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:45.085] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:45.280] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:45.457] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:45.643] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:45.643] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:45.896] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:46.083] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:46.268] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:46.269] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:46.535] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:46.721] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:46.721] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:46.875] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:47.061] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:47.061] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:47.108] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:47.294] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:47.294] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:47.368] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:47.552] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:47.552] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:47.680] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:47.865] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:47.865] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:32:48.670] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:32:50.082] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:50.268] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:50.268] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:50.385] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:50.583] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:50.583] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:50.704] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:50.877] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:50.954] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:51.143] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:51.222] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:51.397] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:51.586] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:51.587] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:51.714] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:51.829] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:52.018] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:52.018] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:52.119] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:52.300] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:52.486] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:52.486] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:52.770] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:32:52.891] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:53.083] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:53.083] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:53.129] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:53.315] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:53.315] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:32:53.345] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:53.529] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:53.529] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:32:54.333] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:32:55.274] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:32:55.464] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:32:55.464] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:32:56.263] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:40:57.585] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:40:57.769] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:40:57.769] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:40:57.854] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:40:58.037] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:40:58.037] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:40:58.189] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:40:58.347] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:40:58.532] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:40:58.532] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:40:58.566] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:40:58.757] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:40:58.912] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:40:59.046] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:40:59.146] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:40:59.311] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:40:59.501] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:40:59.501] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:40:59.754] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:40:59.883] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:00.034] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:00.219] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:00.219] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:00.430] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:00.569] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:00.754] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:00.754] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:01.102] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:01.310] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:01.310] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:01.311] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:01.494] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:01.494] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:01.572] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:01.754] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:01.755] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:01.989] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:02.173] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:02.173] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:02.502] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:02.686] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:02.686] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:03.104] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.144] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.185] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.225] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.265] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.294] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.346] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.375] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.429] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.459] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.506] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.540] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.583] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.623] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.673] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.708] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.756] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.790] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.840] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.873] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.924] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:03.957] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:04.008] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:04.040] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:04.090] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:04.123] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:04.174] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:04.207] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:04.311] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:04.503] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:04.503] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:41:05.311] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:41:09.317] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:09.500] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:09.500] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:09.889] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:10.074] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:10.074] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:10.669] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:10.856] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:10.856] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:41:11.660] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:41:12.351] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:12.536] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:12.536] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:13.203] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:13.389] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:13.389] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:13.471] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:13.657] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:13.657] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:13.879] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:14.064] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:14.064] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:14.149] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:14.350] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:14.551] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:14.702] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:14.859] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:15.057] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:15.057] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:15.137] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:15.321] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:15.321] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:15.454] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:15.639] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:15.639] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:15.700] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:15.907] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:15.908] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:15.908] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:16.091] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:16.091] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:16.148] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:16.363] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:16.537] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:16.722] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:16.723] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:16.798] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:16.969] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:17.062] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:17.250] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:17.336] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:17.520] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:17.615] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:17.799] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:17.799] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:17.838] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:17.981] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:18.160] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:18.200] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:18.341] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:18.525] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:18.525] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:18.860] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:18.967] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:19.156] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:19.341] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:19.341] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:19.387] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:19.573] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:19.573] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:19.605] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:19.790] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:19.790] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:19.853] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:20.047] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:20.047] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:41:20.853] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:41:22.076] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:22.260] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:22.260] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:22.836] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:22.880] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:23.075] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:23.219] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:23.403] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:23.530] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:23.636] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:23.774] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:23.965] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:24.149] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:24.150] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:24.553] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:24.680] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:24.829] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:24.910] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:25.091] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:25.274] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:25.474] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:25.507] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:25.639] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:25.746] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:25.943] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:25.943] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:25.980] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:26.165] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:26.165] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:26.239] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:26.398] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:26.527] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:26.725] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:26.725] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:26.903] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:27.089] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:27.284] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:27.468] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:27.469] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:27.529] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:27.714] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:27.714] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:41:28.519] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:41:30.240] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:30.425] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:30.425] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:30.716] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:30.901] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:30.901] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:31.123] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:31.309] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:31.309] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:31.399] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:31.584] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:31.584] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:31.872] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:32.057] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:32.057] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:32.102] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:32.303] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:32.489] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:32.489] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:32.568] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:32.627] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:32.823] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:32.824] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:32.851] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:33.035] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:33.036] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:33.192] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:33.365] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:33.553] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:33.698] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:33.901] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:34.086] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:34.086] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:34.144] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:34.335] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:34.335] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:41:35.140] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:41:35.355] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:35.539] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:35.540] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:35.569] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:35.727] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:35.823] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:36.022] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:36.023] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:36.147] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:36.331] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:36.332] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:36.370] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:36.514] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:36.664] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:36.860] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:36.967] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:37.153] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:37.153] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:37.223] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:37.410] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:37.561] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:37.728] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:37.926] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:37.927] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:38.107] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:38.296] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:38.297] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:38.710] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:38.900] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:38.900] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:39.185] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:39.372] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:39.373] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:39.404] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:39.510] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:39.662] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:39.768] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:39.951] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:39.951] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:40.091] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:40.245] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:40.394] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:40.560] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:40.758] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:40.758] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:40.786] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:40.971] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:40.971] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:41.075] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:41.201] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:41.334] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:41.429] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:41.630] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:41.710] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:41.872] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:41.966] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:42.110] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:42.283] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:42.467] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:42.467] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:41:43.273] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:41:45.036] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:45.225] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:45.225] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:45.312] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:45.451] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:45.562] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:45.728] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:45.827] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:45.959] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:46.157] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:46.157] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:46.268] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:41:46.424] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:46.622] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:46.622] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:41:46.732] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:41:46.916] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:41:46.917] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:41:47.722] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:42:13.835] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:14.019] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:14.019] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:42:14.826] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:42:15.095] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:15.280] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:15.280] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:15.412] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:15.597] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:15.597] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:16.154] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:16.338] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:16.338] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:16.583] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:16.768] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:16.768] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:17.081] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:17.266] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:17.267] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:42:18.071] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:42:18.114] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:18.208] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:18.402] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:18.611] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:18.611] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:18.611] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:18.793] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:18.794] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:18.879] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:19.007] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:19.159] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:19.357] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:19.357] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:19.782] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:19.972] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:19.972] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:20.048] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:20.246] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:20.246] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:42:21.051] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:42:21.082] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:21.272] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:21.272] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:21.534] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:21.692] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:21.887] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:22.075] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:22.075] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:22.261] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:22.449] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:22.605] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:22.804] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:22.804] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:23.024] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:23.213] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:23.214] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:23.579] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:23.777] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:23.777] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:42:24.583] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:42:25.855] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:26.045] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:26.045] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:26.065] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:26.253] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:26.253] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:26.408] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:26.564] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:26.710] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:26.909] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:26.909] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:26.990] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:27.179] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:27.180] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:27.599] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:27.785] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:27.785] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:42:28.589] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:42:34.538] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:34.726] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:34.726] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:34.991] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:35.177] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:35.369] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:35.369] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:35.478] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:35.663] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:35.663] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:35.832] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:36.017] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:36.017] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:36.055] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:36.254] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:36.254] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:36.508] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:36.687] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:36.773] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:36.958] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:36.959] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:37.014] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:37.181] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:37.326] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:37.480] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:37.698] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:37.899] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:38.010] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:38.208] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:38.208] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:38.344] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:38.530] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:38.530] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:38.671] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:38.803] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:38.803] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:38.908] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:39.097] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:39.281] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:39.281] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:39.431] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:39.615] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:39.615] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:39.667] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:39.851] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:39.852] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:40.038] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:40.170] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:40.355] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:40.356] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:40.395] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:40.526] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:40.724] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:40.724] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:40.765] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:40.969] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:41.105] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:41.250] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:41.394] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:41.549] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:41.668] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:41.855] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:41.855] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:42.009] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:42.178] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:42.324] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:42.471] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:42.657] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:42.657] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:42.790] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:42.975] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:42.975] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:43.245] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:43.431] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:43.431] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:43.458] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:43.650] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:43.650] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:43.692] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:43.882] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:43.883] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:43.906] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:44.009] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:44.157] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:44.244] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:44.425] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:44.507] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:44.691] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:44.692] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:44.830] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:45.014] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:45.014] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:45.225] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:45.375] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:45.573] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:45.573] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:46.322] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:46.513] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:46.641] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:46.831] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:46.831] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:47.004] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:47.144] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:47.274] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:47.438] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:42:47.585] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:47.773] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:47.773] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:42:47.963] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:48.147] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:48.148] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:42:48.951] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:42:49.127] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:42:49.317] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:42:49.317] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:42:50.121] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:43:33.477] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:33.631] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:33.774] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:33.972] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:33.972] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:34.126] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:34.311] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:34.311] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:34.586] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:34.787] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:34.994] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:34.994] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:34.994] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:35.111] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:35.297] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:35.297] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:35.382] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:35.571] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:35.654] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:35.840] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:35.840] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:36.301] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:36.493] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:36.711] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:36.838] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:37.037] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:37.037] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:37.158] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:37.348] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:37.349] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:37.636] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:37.827] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:37.827] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:37.982] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:38.171] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:38.171] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:38.245] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:38.443] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:38.443] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:38.495] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:38.580] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:38.763] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:38.925] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:39.077] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:39.274] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:39.274] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:39.464] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:39.626] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:39.793] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:39.991] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:39.991] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:40.045] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:40.243] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:40.243] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:40.312] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:40.496] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:40.497] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:40.565] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:40.754] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:40.754] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:41.088] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:41.279] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:41.279] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:41.688] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:41.721] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:41.771] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:41.804] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:41.855] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:41.888] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:41.939] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:41.971] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.021] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.056] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.105] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.137] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.189] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.221] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.271] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.304] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.355] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.388] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.438] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.471] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.521] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.554] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.604] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.638] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.689] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.721] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.771] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.804] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.854] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.887] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.937] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:43:42.971] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:43.171] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:43.171] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:43:43.272] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:43:43.470] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:43:43.471] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:43:44.275] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:44:14.805] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:14.901] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:15.088] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:15.273] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:15.273] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:15.804] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:15.977] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:16.164] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:16.278] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:16.392] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:16.590] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:16.590] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:16.649] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:16.835] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:17.020] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:17.021] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:17.057] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:17.165] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:17.363] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:17.548] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:17.548] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:17.771] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:17.909] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:18.119] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:18.306] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:18.391] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:18.564] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:18.665] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:18.824] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:18.867] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:19.052] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:19.146] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:19.208] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:19.405] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:19.405] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:19.439] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:19.595] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:19.727] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:19.924] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:19.924] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:20.103] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:20.246] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:20.430] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:20.431] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:20.590] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:20.679] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:20.823] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:20.923] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:21.113] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:21.114] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:21.158] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:21.249] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:21.405] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:21.552] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:21.713] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:21.911] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:21.911] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:21.953] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:22.039] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:22.222] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:22.222] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:22.256] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:22.367] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:22.553] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:22.553] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:22.591] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:22.743] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:22.941] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:22.941] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:23.018] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:23.203] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:23.203] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:23.239] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:23.423] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:23.423] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:23.440] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:23.651] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:23.837] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:23.837] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:23.868] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:24.053] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:24.053] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:24.432] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:24.574] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:24.726] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:24.924] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:24.924] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:25.043] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:25.234] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:25.234] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:25.274] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:25.460] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:25.460] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:44:26.265] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:44:27.594] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:27.780] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:27.780] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:27.917] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:28.102] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:28.102] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:44:28.906] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:44:44.086] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:44.272] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:44.272] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:44.711] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:44.909] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:44.909] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:45.200] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:45.388] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:45.388] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:45.568] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:45.757] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:45.757] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:45.957] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:46.088] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:46.287] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:46.288] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:46.316] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:46.503] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:46.503] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:46.536] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:46.735] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:46.736] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:47.361] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:47.552] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:47.741] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:47.741] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:48.305] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:48.495] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:48.495] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:48.832] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:49.019] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:49.020] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:44:49.823] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:44:49.896] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:50.088] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:50.088] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:50.530] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:50.714] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:50.715] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:44:51.520] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:44:51.856] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:52.041] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:52.041] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:44:52.844] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:44:53.713] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:53.756] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:53.940] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:53.940] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:54.072] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:54.257] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:54.258] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:54.309] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:54.507] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:54.507] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:54.560] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:54.630] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:54.774] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:54.915] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:55.106] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:55.106] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:55.155] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:55.344] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:55.344] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:55.929] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:56.118] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:56.118] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:56.459] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:56.645] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:56.645] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:56.737] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:56.924] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:56.925] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:44:57.730] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:44:57.833] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:58.019] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:58.019] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:58.077] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:58.195] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:58.293] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:58.490] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:58.491] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:58.518] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:58.679] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:58.780] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:58.977] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:58.977] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:59.028] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:44:59.030] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:59.227] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:59.227] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:59.450] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:59.640] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:59.640] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:44:59.704] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:44:59.903] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:44:59.903] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:00.237] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:00.321] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:00.507] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:00.507] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:00.651] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:00.838] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:00.838] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:01.140] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:01.330] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:01.330] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:01.408] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:01.604] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:01.604] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:02.236] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:02.421] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:02.421] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:02.459] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:02.643] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:02.643] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:02.774] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:02.963] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:02.964] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:03.201] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:03.388] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:03.388] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:45:04.193] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:45:06.800] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:06.990] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:06.990] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:07.080] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:07.268] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:07.268] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:07.517] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:07.698] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:07.887] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:07.887] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:45:08.692] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:45:13.651] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:13.788] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:13.941] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:14.132] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:14.132] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:14.324] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:14.514] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:14.646] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:14.831] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:14.831] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:14.878] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:15.024] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:15.213] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:15.213] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:15.240] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:15.390] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:15.487] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:15.686] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:15.794] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:15.923] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:16.119] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:16.305] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:16.305] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:16.363] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:45:16.516] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:16.702] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:16.702] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:45:17.236] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:45:17.420] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:45:17.420] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:45:18.226] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:48:35.064] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:35.248] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:35.248] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:35.684] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:35.868] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:35.869] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:36.302] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:36.487] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:36.488] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:36.557] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:36.757] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:36.757] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:36.804] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:36.994] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:36.994] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:37.506] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:37.696] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:37.696] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:38.134] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:38.319] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:38.319] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:38.341] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:38.540] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:38.540] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:38.908] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:39.027] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:39.176] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:39.374] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:39.374] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:39.450] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:39.632] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:39.632] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:48:40.468] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:48:42.656] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:42.847] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:42.847] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:48:43.653] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:48:44.686] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:44.873] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:44.874] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:45.244] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:45.433] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:45.433] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:45.534] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:45.629] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:45.817] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:45.818] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:46.449] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:46.638] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:46.638] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:47.029] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:47.213] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:47.213] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:47.321] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:47.505] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:47.506] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:47.835] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:48.019] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:48.020] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:48.071] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:48.268] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:48.268] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:48.477] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:48.661] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:48.661] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:49.106] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:49.283] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:49.460] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:49.660] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:49.660] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:49.840] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:50.026] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:50.026] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:50.087] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:50.286] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:50.286] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:50.361] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:50.549] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:50.549] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:50.569] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:50.758] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:50.943] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:50.943] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:51.181] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:51.365] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:51.365] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:51.519] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:51.647] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:51.832] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:51.832] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:51.869] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:52.053] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:52.053] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:52.247] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:52.432] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:52.432] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:52.674] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:52.797] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:52.981] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:52.981] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:53.010] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:53.188] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:53.331] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:53.422] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:53.521] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:53.639] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:53.790] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:53.891] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:54.090] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:54.090] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:54.128] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:54.312] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:54.312] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:54.400] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:54.539] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:54.723] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:54.724] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:54.963] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:55.098] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:48:55.233] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:55.424] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:55.424] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:55.507] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:55.705] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:55.705] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:48:56.511] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:48:59.152] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:48:59.351] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:48:59.351] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:48:59.996] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:00.181] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:00.181] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:00.626] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:00.809] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:00.809] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:01.152] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:01.350] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:01.350] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:49:02.156] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:49:03.748] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:03.933] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:03.933] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:04.274] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:04.460] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:04.460] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:04.825] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:05.023] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:05.023] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:05.172] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:05.363] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:05.363] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:05.501] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:05.691] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:05.692] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:05.746] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:05.904] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:06.104] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:06.254] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:06.453] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:06.453] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:06.503] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:06.688] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:06.688] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:49:07.494] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:49:08.643] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:08.830] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:08.830] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:08.910] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:09.110] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:09.110] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:09.177] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:09.374] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:09.527] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:09.725] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:09.725] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:09.769] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:09.954] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:09.954] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:49:10.758] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:49:13.865] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:14.049] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:14.049] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:14.784] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:14.908] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:15.036] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:15.124] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:15.310] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:15.310] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:15.343] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:15.501] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:15.595] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:15.785] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:15.785] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:16.056] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:16.240] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:16.379] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:16.522] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:16.660] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:16.822] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:17.020] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:17.021] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:17.096] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:17.277] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:17.277] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:17.327] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:17.440] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:17.573] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:17.771] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:17.771] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:17.826] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:18.011] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:18.012] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:49:18.817] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:49:19.081] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:19.206] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:19.364] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:19.498] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:19.577] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:19.739] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:19.936] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:19.936] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:20.117] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:20.258] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:20.443] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:20.443] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:20.658] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:20.843] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:20.844] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:21.213] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:21.359] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:21.489] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:21.674] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:21.674] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:22.420] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:22.603] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:22.604] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:22.676] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:22.797] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:22.983] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:22.983] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:23.044] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:23.238] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:23.291] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:23.498] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:23.596] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:23.782] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:23.816] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:24.003] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:24.176] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:24.343] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:24.444] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:24.580] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:24.703] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:24.893] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:24.893] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:24.919] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:25.108] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:25.108] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:25.315] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:25.502] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:25.502] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:25.726] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:25.911] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:25.911] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:26.022] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:26.208] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:26.208] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:26.249] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:26.472] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:26.552] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:26.684] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:26.869] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:27.053] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:27.238] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:27.353] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:27.542] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:27.543] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:49:28.346] LinkProvider: compute - untitled:Untitled-1
+[Trace 13:49:28.480] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:28.667] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:28.667] TableOfContentsProvider: create - untitled:Untitled-1
+[Trace 13:49:28.720] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:28.746] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:28.855] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:28.973] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Trace 13:49:29.099] Server: connection.languages.diagnostics.on: untitled:Untitled-1
+[Debug 13:49:29.284] MdFoldingProvider: provideFoldingRanges - untitled:Untitled-1
+[Debug 13:49:29.284] TableOfContentsProvider: create - untitled:Untitled-1
+[Debug 13:49:30.089] LinkProvider: compute - untitled:Untitled-1
+[Trace 14:43:52.033] Server: connection.languages.diagnostics.on: untitled:Untitled-1

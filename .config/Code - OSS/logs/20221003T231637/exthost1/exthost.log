@@ -15,3 +15,5 @@
 [2022-10-03 23:17:12.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
 [2022-10-03 23:17:12.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
 [2022-10-03 23:17:12.834] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-10-03 23:23:21.350] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-03 23:23:21.380] [exthost] [info] Extension host with pid 9420 exiting with code 0

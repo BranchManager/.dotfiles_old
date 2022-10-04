@@ -1,0 +1,17 @@
+[2022-10-04T12:30:22.448Z] Log level: Info
+[2022-10-04T12:30:22.448Z] [info] Validating found git in: git
+[2022-10-04T12:30:22.459Z] [info] Using git 2.37.3 from git
+[2022-10-04T12:30:22.474Z] > git rev-parse --show-toplevel [4ms]
+[2022-10-04T12:30:22.481Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-10-04T12:30:22.486Z] [info] Open repository: /home/branchmanager
+[2022-10-04T12:30:22.570Z] > git status -z -uall [77ms]
+[2022-10-04T12:30:22.803Z] > git show --textconv :.config/waybar/config [6ms]
+[2022-10-04T12:30:22.804Z] > git ls-files --stage -- /home/branchmanager/.config/waybar/config [2ms]
+[2022-10-04T12:30:23.007Z] > git check-ignore -v -z --stdin [2ms]
+[2022-10-04T14:43:52.230Z] > git show --textconv :.config/hypr/hyprland.conf [8ms]
+[2022-10-04T14:43:52.231Z] > git ls-files --stage -- /home/branchmanager/.config/hypr/hyprland.conf [3ms]
+[2022-10-04T14:43:52.446Z] > git check-ignore -v -z --stdin [2ms]
+[2022-10-04T16:26:13.307Z] > git show --textconv :.config/waybar/rofi_configs/powermenu.sh [9ms]
+[2022-10-04T16:26:13.308Z] > git ls-files --stage -- /home/branchmanager/.config/waybar/rofi_configs/powermenu.sh [2ms]
+[2022-10-04T16:26:13.795Z] > git check-ignore -v -z --stdin [1ms]
+[2022-10-04T16:31:24.653Z] > git check-ignore -v -z --stdin [2ms]

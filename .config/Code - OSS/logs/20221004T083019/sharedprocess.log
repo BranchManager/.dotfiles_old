@@ -1,0 +1,3 @@
+[2022-10-04 08:30:22.623] [sharedprocess] [info] Starting worker process with pid 13446 (type: fileWatcher, window: 1).
+[2022-10-04 08:50:50.881] [sharedprocess] [error] SharedProcess (worker, fileWatcher): Worker process with pid 13446 terminated by itself with code null, signal: SIGSEGV (type: fileWatcher, window: 1)
+[2022-10-04 08:50:50.931] [sharedprocess] [info] Starting worker process with pid 13712 (type: fileWatcher, window: 1).
