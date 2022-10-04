@@ -8,7 +8,7 @@
     // Choose the order of the modules
     "modules-left": ["custom/menu", "wlr/workspaces", "custom/browser", "custom/code", "custom/terminal","custom/folders","custom/spotify"],
     "modules-center": ["clock"],
-    "modules-right": ["pulseaudio", "network", "backlight",  "sway/language", "battery", "battery#bat2", "custom/power","custom/archeww"],
+    "modules-right": ["pulseaudio", "network", "backlight", "keyboard-state", "sway/language", "battery", "battery#bat2", "custom/power","custom/archeww"],
     // Modules configuration
     // "sway/workspaces": {
     //     "disable-scroll": true,
@@ -76,14 +76,14 @@
              "default": ""
          }
      },
-   "keyboard-state": {
+   /* "keyboard-state": {
         "numlock": true,
         "capslock": true,
         "format": "{name} {icon}",
         "format-icons": {
             "locked": "",
             "unlocked": ""
-        }
+        }*/
     },
     "sway/mode": {
         "format": "<span style=\"italic\">{}</span>"

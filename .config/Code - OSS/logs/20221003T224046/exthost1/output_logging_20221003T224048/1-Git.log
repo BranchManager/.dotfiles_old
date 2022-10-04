@@ -1,0 +1,15 @@
+[2022-10-04T02:40:57.242Z] Log level: Info
+[2022-10-04T02:40:57.244Z] [info] Validating found git in: git
+[2022-10-04T02:40:57.258Z] [info] Using git 2.37.3 from git
+[2022-10-04T02:40:57.277Z] > git rev-parse --show-toplevel [5ms]
+[2022-10-04T02:40:57.292Z] > git rev-parse --git-dir --git-common-dir [6ms]
+[2022-10-04T02:40:57.299Z] [info] Open repository: /home/branchmanager
+[2022-10-04T02:40:57.512Z] > git status -z -uall [203ms]
+[2022-10-04T02:40:57.847Z] > git check-ignore -v -z --stdin [4ms]
+[2022-10-04T02:40:59.301Z] > git show --textconv :.config/waybar/config [9ms]
+[2022-10-04T02:40:59.303Z] > git ls-files --stage -- /home/branchmanager/.config/waybar/config [3ms]
+[2022-10-04T02:41:22.690Z] > git show --textconv :.config/waybar/style.css [9ms]
+[2022-10-04T02:41:22.691Z] > git ls-files --stage -- /home/branchmanager/.config/waybar/style.css [1ms]
+[2022-10-04T02:53:50.849Z] > git show --textconv :.config/hypr/hyprland.conf [10ms]
+[2022-10-04T02:53:50.850Z] > git ls-files --stage -- /home/branchmanager/.config/hypr/hyprland.conf [2ms]
+[2022-10-04T02:53:51.093Z] > git check-ignore -v -z --stdin [3ms]

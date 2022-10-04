@@ -45,26 +45,28 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "openRecentFile",
+                                    "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/branchmanager/.config/waybar/style.css",
-                                        "path": "/home/branchmanager/.config/waybar/style.css",
+                                        "path": "/home/branchmanager/.config/waybar",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/waybar/style.css"
+                                    "label": "~/.config/waybar"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/branchmanager/.config/waybar/config",
-                                        "path": "/home/branchmanager/.config/waybar/config",
+                                        "external": "file:///home/branchmanager/.config/hypr/hyprland.conf",
+                                        "path": "/home/branchmanager/.config/hypr/hyprland.conf",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/.config/waybar/config"
+                                    "label": "~/.config/hypr/hyprland.conf"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -210,6 +212,10 @@
                     {
                         "id": "workbench.action.closeActiveEditor",
                         "label": "&&Close Editor"
+                    },
+                    {
+                        "id": "workbench.action.closeFolder",
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -405,7 +411,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Primary Side Bar"
+                                    "label": "&&Primary Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleAuxiliaryBar",
@@ -423,8 +430,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel",
-                                    "checked": true
+                                    "label": "&&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -970,7 +976,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1153,6 +1160,11 @@
             "workbench.action.closeActiveEditor": {
                 "label": "Ctrl+W",
                 "userSettingsLabel": "ctrl+w"
+            },
+            "workbench.action.closeFolder": {
+                "label": "Ctrl+K F",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
                 "label": "Alt+F4",
@@ -1539,19 +1551,20 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 0,
+            "sideBarWidth": 170,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/1664846168331",
+            "folder": "file:///home/branchmanager/.config/waybar",
+            "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/ef8cc761223387368bc2af10e6d35a6b",
             "uiState": {
                 "mode": 1,
                 "x": 23,
                 "y": 67,
-                "width": 1874,
+                "width": 929,
                 "height": 990
             }
         },

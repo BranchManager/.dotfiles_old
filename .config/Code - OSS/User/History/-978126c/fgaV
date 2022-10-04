@@ -76,7 +76,7 @@
              "default": ""
          }
      },
-   "keyboard-state": {
+   /"keyboard-state": {
         "numlock": true,
         "capslock": true,
         "format": "{name} {icon}",

@@ -1,0 +1,17 @@
+[2022-10-03 23:16:39.945] [exthost] [info] Extension host with pid 9420 started
+[2022-10-03 23:16:39.945] [exthost] [info] Skipping acquiring lock for /home/branchmanager/.config/Code - OSS/User/workspaceStorage/36fb77c2184044b0f80d6dd9f406c0c3.
+[2022-10-03 23:16:40.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-03 23:16:40.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-03 23:16:40.021] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-03 23:16:40.033] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-03 23:16:40.052] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-03 23:16:40.093] [exthost] [info] Eager extensions activated
+[2022-10-03 23:16:40.123] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-03 23:16:40.130] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-03 23:16:43.965] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-10-03 23:16:45.006] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-10-03 23:16:52.668] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-10-03 23:17:12.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-10-03 23:17:12.806] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-10-03 23:17:12.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-10-03 23:17:12.834] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'

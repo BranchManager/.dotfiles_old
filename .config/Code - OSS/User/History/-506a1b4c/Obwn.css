@@ -197,14 +197,8 @@ window#waybar.chromium {
 }
 
 #battery {
-    font-family: 'Ubuntu Nerd Font';
-    margin-bottom: 8px;
-    margin-top:4px;
-   /* background-color: #b7bdf8;*/
-   font-size: 16;
-    border-radius: 5px;
-    padding: 0px 10px ;
-    border-radius: 5px;
+    font:'Ubuntu Nerd Font';
+    border-radius: 5%;
     background-color: #ffffff;
     color: #000000;
 }
@@ -250,18 +244,10 @@ label:focus {
 
 #backlight {
     background-color: #90b1b1;
-    margin-bottom: 8px;
-    margin-top:4px;
-   /* background-color: #b7bdf8;*/
-   font-size: 16;
-    border-radius: 5px;
-    padding: 0px 10px ;
-    color:  	#cad3f5;
 }
 
 #network {
     background-color: #2980b9;
-    
 }
 
 #network.wifi{
