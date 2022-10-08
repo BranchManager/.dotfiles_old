@@ -1,0 +1,4 @@
+[2022-10-04 18:54:22.152] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-10-04 18:54:23.101] [main] [info] Starting extension host with pid 12530 (fork() took 8 ms).
+[2022-10-04 19:03:07.164] [main] [info] Waiting for extension host with pid 12530 to exit.
+[2022-10-04 19:03:07.167] [main] [info] Extension host with pid 12530 exited with code: 0, signal: null.

@@ -1,0 +1,27 @@
+[Trace 21:11:26.315] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-welcome-to-jekyll.markdown
+[Trace 21:11:26.316] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_drafts/2022-09-25_Eww_Weather.md
+[Trace 21:11:26.316] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/about.md
+[Trace 21:11:26.316] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_authors/Noah.md
+[Trace 21:11:26.316] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/Waybar.md
+[Trace 21:11:26.316] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-28-new_branch.md
+[Trace 21:11:26.316] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/new_branch.md
+[Trace 21:11:26.316] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-Test-run.md
+[Trace 21:11:26.316] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/categories.md
+[Trace 21:11:26.317] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/index.markdown
+[Trace 21:11:26.317] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-First_Post.md
+[Trace 21:11:26.317] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-welcome-to-jekyll.markdown
+[Trace 21:11:26.317] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_drafts/2022-09-25_Eww_Weather.md
+[Debug 21:11:26.346] LinkProvider: compute - file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-welcome-to-jekyll.markdown
+[Trace 21:11:26.518] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-welcome-to-jekyll.markdown
+[Trace 21:11:26.717] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_drafts/2022-09-25_Eww_Weather.md
+[Trace 21:11:26.919] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/about.md
+[Trace 21:11:27.119] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_authors/Noah.md
+[Trace 21:11:27.319] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/Waybar.md
+[Trace 21:11:27.520] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-28-new_branch.md
+[Trace 21:11:27.720] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/new_branch.md
+[Debug 21:11:27.834] MdFoldingProvider: provideFoldingRanges - file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-welcome-to-jekyll.markdown
+[Debug 21:11:27.835] TableOfContentsProvider: create - file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-welcome-to-jekyll.markdown
+[Trace 21:11:27.920] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-Test-run.md
+[Trace 21:11:28.120] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/categories.md
+[Trace 21:11:28.320] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/index.markdown
+[Trace 21:11:28.521] Server: connection.languages.diagnostics.on: file:///home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-First_Post.md

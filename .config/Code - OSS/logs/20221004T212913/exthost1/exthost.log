@@ -1,0 +1,18 @@
+[2022-10-04 21:29:15.688] [exthost] [info] Extension host with pid 60653 started
+[2022-10-04 21:29:15.688] [exthost] [info] Skipping acquiring lock for /home/branchmanager/.config/Code - OSS/User/workspaceStorage/8167bfd2d93898b0dbbf1d302791977d.
+[2022-10-04 21:29:15.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2022-10-04 21:29:15.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-04 21:29:15.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-04 21:29:15.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-04 21:29:15.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-04 21:29:15.918] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-04 21:29:15.980] [exthost] [info] Eager extensions activated
+[2022-10-04 21:29:15.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-04 21:29:15.998] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-04 21:29:16.745] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-10-04 21:29:16.751] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-10-04 21:29:16.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2022-10-04 21:29:16.808] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2022-10-04 21:55:08.759] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-04 22:02:39.620] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-04 22:02:39.640] [exthost] [info] Extension host with pid 60653 exiting with code 0

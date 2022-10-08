@@ -1,0 +1,26 @@
+[2022-10-04T21:11:26.362Z] Log level: Info
+[2022-10-04T21:11:26.362Z] [info] Validating found git in: git
+[2022-10-04T21:11:26.370Z] [info] Using git 2.38.0 from git
+[2022-10-04T21:11:26.382Z] > git rev-parse --show-toplevel [6ms]
+[2022-10-04T21:11:26.387Z] > git rev-parse --git-dir --git-common-dir [0ms]
+[2022-10-04T21:11:26.390Z] [info] Open repository: /home/branchmanager/Blog/MyJekyllBlog
+[2022-10-04T21:11:26.416Z] > git status -z -uall [22ms]
+[2022-10-04T21:11:26.424Z] > git symbolic-ref --short HEAD [5ms]
+[2022-10-04T21:11:26.429Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Website refs/remotes/Website [1ms]
+[2022-10-04T21:11:26.437Z] > git remote --verbose [2ms]
+[2022-10-04T21:11:26.438Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+[2022-10-04T21:11:26.444Z] > git config --get commit.template [1ms]
+[2022-10-04T21:11:26.451Z] > git status -z -uall [3ms]
+[2022-10-04T21:11:26.455Z] > git symbolic-ref --short HEAD [0ms]
+[2022-10-04T21:11:26.460Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Website refs/remotes/Website [1ms]
+[2022-10-04T21:11:26.466Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-10-04T21:11:26.467Z] > git remote --verbose [1ms]
+[2022-10-04T21:11:26.471Z] > git config --get commit.template [1ms]
+[2022-10-04T21:11:26.710Z] > git show --textconv :_data/authors.yml [11ms]
+[2022-10-04T21:11:26.710Z] > git show --textconv :_posts/2022-08-15-welcome-to-jekyll.markdown [8ms]
+[2022-10-04T21:11:26.710Z] > git ls-files --stage -- /home/branchmanager/Blog/MyJekyllBlog/_data/authors.yml [5ms]
+[2022-10-04T21:11:26.714Z] > git cat-file -s 7f54e95f00bee264ed3527cbff6a9b0fddd4e1e7 [1ms]
+[2022-10-04T21:11:26.714Z] > git ls-files --stage -- /home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-welcome-to-jekyll.markdown [5ms]
+[2022-10-04T21:11:26.717Z] > git cat-file -s b754caccf3c86f174b5bad5174a342a307525274 [1ms]
+[2022-10-04T21:11:26.904Z] > git check-ignore -v -z --stdin [1ms]
+[2022-10-04T21:11:37.215Z] > git check-ignore -v -z --stdin [1ms]

@@ -5,3 +5,16 @@ application/x-desktop=code-oss.desktop;
 application/x-shellscript=kitty-open.desktop;userapp-code %f-4LWMQ1.desktop;
 inode/directory=code-oss.desktop;kitty-open.desktop;
 image/svg+xml=code-oss.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-XA7FT1.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-XA7FT1.desktop;
+x-scheme-handler/webcal=userapp-Thunderbird-4SDGT1.desktop;
+x-scheme-handler/webcals=userapp-Thunderbird-4SDGT1.desktop;
+
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-XA7FT1.desktop
+message/rfc822=userapp-Thunderbird-XA7FT1.desktop
+x-scheme-handler/mid=userapp-Thunderbird-XA7FT1.desktop
+x-scheme-handler/webcal=userapp-Thunderbird-4SDGT1.desktop
+text/calendar=userapp-Thunderbird-4SDGT1.desktop
+application/x-extension-ics=userapp-Thunderbird-4SDGT1.desktop
+x-scheme-handler/webcals=userapp-Thunderbird-4SDGT1.desktop

@@ -1,7 +1,17 @@
-2022/08/28-17:43:29.111 ad4f Creating DB /home/branchmanager/.config/discord/Local Storage/leveldb since it was missing.
-2022/08/28-17:43:29.123 ad4f Reusing MANIFEST /home/branchmanager/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/08/28-17:45:32.920 ad4f Level-0 table #5: started
-2022/08/28-17:45:32.931 ad4f Level-0 table #5: 505020 bytes OK
-2022/08/28-17:45:32.933 ad4f Delete type=0 #3
-2022/08/28-17:51:26.506 bc37 Level-0 table #7: started
-2022/08/28-17:51:26.519 bc37 Level-0 table #7: 1111055 bytes OK
+2022/10/06-19:17:07.561 6990 Reusing MANIFEST /home/branchmanager/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/10/06-19:17:07.562 6990 Recovering log #21
+2022/10/06-19:17:07.586 6990 Level-0 table #24: started
+2022/10/06-19:17:07.644 6990 Level-0 table #24: 1115110 bytes OK
+2022/10/06-19:17:07.672 6990 Delete type=0 #21
+2022/10/06-19:17:07.672 69db Compacting 4@0 + 1@1 files
+2022/10/06-19:17:07.757 69db Generated table #26@0: 63 keys, 2229615 bytes
+2022/10/06-19:17:07.757 69db Compacted 4@0 + 1@1 files => 2229615 bytes
+2022/10/06-19:17:07.775 69db compacted to: files[ 0 2 1 0 0 0 0 ]
+2022/10/06-19:17:07.775 69db Delete type=2 #22
+2022/10/06-19:17:07.775 69db Delete type=2 #18
+2022/10/06-19:17:07.775 69db Delete type=2 #15
+2022/10/06-19:17:07.775 69db Delete type=2 #20
+2022/10/06-19:17:07.775 69db Delete type=2 #24
+2022/10/06-19:19:08.603 69dc Level-0 table #28: started
+2022/10/06-19:19:08.617 69dc Level-0 table #28: 505087 bytes OK
+2022/10/06-19:19:08.624 69dc Delete type=0 #25

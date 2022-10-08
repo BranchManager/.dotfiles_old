@@ -1,3 +1,6 @@
+
+//////////////////////////////delete above//////////////////////////////////////////
+$bg-alt: #24273a;
 .bg {
 	//background-image: url("images/bg.png");
 	background-color: #474D59;
@@ -92,6 +95,12 @@
 	color: #FFF;
 	font-size: 36px;
 }
+.notification_label{
+	color: #99d1db;
+	margin: 10px;
+	font-family: 'Ubuntu Nerd Font';
+	font-size: 24;
+}
 .test1{
 	color:#FFF;
 	font-size: 12px;
@@ -100,5 +109,54 @@
 //104 230 c & j
 
 .notifs{
+	background-color: $bg-alt;
+	border-radius: 10px;
+	margin: 10px;
+	box-shadow: 10px 5px 5px black;
+}
+.divider{
+	font-size: 4px;
+}
+.notifcard{
 	background-color: #000;
+	margin: 10px;
+	box-shadow: 10px 5px 5px pink;
+	border-radius:7px;
+	
+	//color: orange;
+}
+.notifcar1{
+	background-color: #414559;
+	margin: 10px;
+	box-shadow: 3px 3px 5px black;
+	border-radius:7px;
+	//box-shadow: #000;
+}
+	//color: orange;
+
+
+.notification_bell_icon{
+	background-color: #737994;
+	border-radius: 7px;
+}
+.quote_card{
+	background-color: #414559;
+	margin: 10px;
+	box-shadow: 1px 1px 5px black;
+	border-radius:7px;
+}
+.quote_card:active{
+	background-color: #414559;
+	margin: 10px;
+	//box-shadow: 1px 1px 5px black;
+	border-radius:7px;
+}
+.Quote_label{
+ color: #e5c890;
+}
+
+.quote{
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
 }

@@ -1,6 +1,0 @@
-[2022-09-19T13:56:12.963Z] Log level: Info
-[2022-09-19T13:56:12.965Z] [info] Validating found git in: git
-[2022-09-19T13:56:12.976Z] [info] Using git 2.37.3 from git
-[2022-09-19T13:56:12.986Z] > git rev-parse --show-toplevel [2ms]
-[2022-09-19T13:56:12.986Z] fatal: not a git repository (or any parent up to mount point /)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

@@ -1,0 +1,15 @@
+[2022-10-04 17:11:26.031] [exthost] [info] Extension host with pid 81282 started
+[2022-10-04 17:11:26.031] [exthost] [info] Skipping acquiring lock for /home/branchmanager/.config/Code - OSS/User/workspaceStorage/aa671aff06cc48608621debeae5e77b3.
+[2022-10-04 17:11:26.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-10-04 17:11:26.131] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-10-04 17:11:26.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-04 17:11:26.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-04 17:11:26.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-04 17:11:26.327] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-04 17:11:26.342] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-04 17:11:26.377] [exthost] [info] Eager extensions activated
+[2022-10-04 17:11:26.378] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-10-04 17:11:26.401] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-04 17:11:26.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-04 17:11:40.787] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-04 17:11:40.802] [exthost] [info] Extension host with pid 81282 exiting with code 0

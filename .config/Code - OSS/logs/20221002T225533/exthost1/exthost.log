@@ -1,0 +1,10 @@
+[2022-10-02 22:55:35.535] [exthost] [info] Extension host with pid 14525 started
+[2022-10-02 22:55:35.535] [exthost] [info] Skipping acquiring lock for /home/branchmanager/.config/Code - OSS/User/workspaceStorage/561ab37d7779435dfb8e52ef32599565.
+[2022-10-02 22:55:35.602] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-02 22:55:35.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-02 22:55:35.609] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-02 22:55:35.627] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-02 22:55:35.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-02 22:55:35.727] [exthost] [info] Eager extensions activated
+[2022-10-02 22:55:35.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-02 22:55:35.771] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

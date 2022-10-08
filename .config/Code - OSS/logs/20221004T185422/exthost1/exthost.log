@@ -1,0 +1,10 @@
+[2022-10-04 18:54:23.638] [exthost] [info] Extension host with pid 12530 started
+[2022-10-04 18:54:23.720] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-04 18:54:23.723] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-10-04 18:54:23.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-04 18:54:23.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-04 18:54:23.746] [exthost] [info] Eager extensions activated
+[2022-10-04 18:54:23.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-04 18:54:23.753] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-04 19:03:07.152] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-04 19:03:07.155] [exthost] [info] Extension host with pid 12530 exiting with code 0

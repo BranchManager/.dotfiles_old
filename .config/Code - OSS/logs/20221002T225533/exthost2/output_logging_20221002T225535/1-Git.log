@@ -1,0 +1,25 @@
+[2022-10-03T02:55:36.129Z] Log level: Info
+[2022-10-03T02:55:36.130Z] [info] Validating found git in: git
+[2022-10-03T02:55:36.137Z] [info] Using git 2.37.3 from git
+[2022-10-03T02:55:36.190Z] > git rev-parse --show-toplevel [46ms]
+[2022-10-03T02:55:36.207Z] > git rev-parse --git-dir --git-common-dir [12ms]
+[2022-10-03T02:55:36.210Z] [info] Open repository: /home/branchmanager/Blog/MyJekyllBlog
+[2022-10-03T02:55:36.269Z] > git status -z -uall [54ms]
+[2022-10-03T02:55:36.279Z] > git symbolic-ref --short HEAD [7ms]
+[2022-10-03T02:55:36.318Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Website refs/remotes/Website [36ms]
+[2022-10-03T02:55:36.324Z] > git remote --verbose [1ms]
+[2022-10-03T02:55:36.324Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-10-03T02:55:36.333Z] > git config --get commit.template [2ms]
+[2022-10-03T02:55:36.339Z] > git status -z -uall [1ms]
+[2022-10-03T02:55:36.344Z] > git symbolic-ref --short HEAD [1ms]
+[2022-10-03T02:55:36.347Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Website refs/remotes/Website [0ms]
+[2022-10-03T02:55:36.354Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-10-03T02:55:36.355Z] > git remote --verbose [1ms]
+[2022-10-03T02:55:36.360Z] > git config --get commit.template [1ms]
+[2022-10-03T02:55:36.700Z] > git show --textconv :_posts/2022-08-15-welcome-to-jekyll.markdown [4ms]
+[2022-10-03T02:55:36.701Z] > git ls-files --stage -- /home/branchmanager/Blog/MyJekyllBlog/_posts/2022-08-15-welcome-to-jekyll.markdown [1ms]
+[2022-10-03T02:55:36.704Z] > git cat-file -s b754caccf3c86f174b5bad5174a342a307525274 [0ms]
+[2022-10-03T02:55:36.760Z] > git show --textconv :_data/authors.yml [3ms]
+[2022-10-03T02:55:36.760Z] > git ls-files --stage -- /home/branchmanager/Blog/MyJekyllBlog/_data/authors.yml [1ms]
+[2022-10-03T02:55:36.764Z] > git cat-file -s 7f54e95f00bee264ed3527cbff6a9b0fddd4e1e7 [1ms]
+[2022-10-03T02:55:36.773Z] > git check-ignore -v -z --stdin [1ms]

@@ -48,6 +48,28 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/branchmanager/.config/waybar",
+                                        "path": "/home/branchmanager/.config/waybar",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/waybar"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///usr/share/sddm/themes/ROUNDED-DARK",
+                                        "path": "/usr/share/sddm/themes/ROUNDED-DARK",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/usr/share/sddm/themes/ROUNDED-DARK"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/branchmanager/.config/eww",
                                         "path": "/home/branchmanager/.config/eww",
                                         "scheme": "file"
@@ -65,17 +87,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Blog/MyJekyllBlog"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/branchmanager/.config/waybar",
-                                        "path": "/home/branchmanager/.config/waybar",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/waybar"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -144,18 +155,29 @@
                                     "label": "~/Blog/HexoBlog"
                                 },
                                 {
-                                    "id": "openRecentFolder",
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/branchmanager/Blog/ArchHexoBlog/demo",
-                                        "path": "/home/branchmanager/Blog/ArchHexoBlog/demo",
+                                        "external": "file:///home/branchmanager/.config/hypr/hyprland.conf",
+                                        "path": "/home/branchmanager/.config/hypr/hyprland.conf",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Blog/ArchHexoBlog/demo"
+                                    "label": "~/.config/hypr/hyprland.conf"
                                 },
                                 {
-                                    "id": "vscode.menubar.separator"
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/branchmanager/.config/hypr/hyprland2.conf",
+                                        "path": "/home/branchmanager/.config/hypr/hyprland2.conf",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.config/hypr/hyprland2.conf"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -178,17 +200,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/.ssh/github_ed_key.pub"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/branchmanager/.config/hypr/hyprland.conf",
-                                        "path": "/home/branchmanager/.config/hypr/hyprland.conf",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/.config/hypr/hyprland.conf"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -257,17 +268,6 @@
                                     "label": "/media/ext_drive/home/branchmanager/This_is_another_home_dir_8-7-2022/branchmanager/script_test.sh"
                                 },
                                 {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/branchmanager/log2.txt",
-                                        "path": "/home/branchmanager/log2.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/log2.txt"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
@@ -312,7 +312,8 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -606,7 +607,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "&&Panel"
+                                    "label": "&&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -831,8 +833,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -841,8 +842,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1145,8 +1145,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1720,46 +1719,23 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 0,
             "activityBarWidth": 48,
-            "sideBarWidth": 170,
+            "sideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/branchmanager/.config/eww",
-            "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/dd2263d3c3c66b30bd9cbed1b1fcff0f",
+            "folder": "file:///home/branchmanager/.config/waybar",
+            "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/ef8cc761223387368bc2af10e6d35a6b",
             "uiState": {
-                "mode": 0,
-                "x": 7826,
-                "y": 42,
-                "width": 1689,
-                "height": 1350
+                "mode": 1,
+                "x": 1726,
+                "y": 55,
+                "width": 1703,
+                "height": 1374
             }
         },
-        "openedWindows": [
-            {
-                "folder": "file:///home/branchmanager/.config/eww",
-                "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/dd2263d3c3c66b30bd9cbed1b1fcff0f",
-                "uiState": {
-                    "mode": 0,
-                    "x": 7826,
-                    "y": 42,
-                    "width": 1689,
-                    "height": 1350
-                }
-            },
-            {
-                "folder": "file:///home/branchmanager/Blog/MyJekyllBlog",
-                "backupPath": "/home/branchmanager/.config/Code - OSS/Backups/1bbebd611c85f1e7a4818e8db884c810",
-                "uiState": {
-                    "mode": 0,
-                    "x": 8514,
-                    "y": 42,
-                    "width": 1864,
-                    "height": 2070
-                }
-            }
-        ]
+        "openedWindows": []
     }
 }

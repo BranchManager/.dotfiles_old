@@ -1,7 +1,8 @@
 ;(defvar usr "${HOME}" )
 ;(defvar get_noti "(label :text \"hello in var\" :valign \"center\" :class \"weather_label\" )")
-;(deflisten get_noti "python3 /home/branchmanager/.config/eww/scripts/notif.py")
-(defvar get_noti "run notif")
+(deflisten get_noti "python3 /home/branchmanager/.config/eww/scripts/notif.py")
+(deflisten get_quote "python3 /home/branchmanager/.config/eww/scripts/Quote.py")
+;(defvar get_noti "run notif")
 (defwidget user [] 
 	(box :class "genwin":orientation "v" :spacing 0 :space-evenly "false" :vexpand "false" :hexpand "false"
 		;(box :style "background-image: url('https://avatars.githubusercontent.com/u/22553102?v=4');" :class "face" :halign "center")
@@ -47,7 +48,7 @@
 					(bully))
 
 
-(defwindow mainbg :stacking "fg" :focusable "false" :monitor 2
+(defwindow mainbg :stacking "fg" :focusable "false" :monitor 2 :windowtype "dock"
     :geometry (geometry :x 0 :y 0 :anchor "top right" :width 450 :height 1400)
     (mainbg))
 
@@ -158,25 +159,103 @@
 
 ;;;;;;;;;;notification widget;;;;;;;;;;;;;;;;;;;;
 (defwidget notification []
+    
     (box :class "notifs" 
             ;:space-evenly "true"
-            :spacing 10
-            :vexpand "false" 
-            :hexpand "false"
-            
+            ;:spacing 0
+            ;:vexpand "false" 
+            ;:hexpand "false"
+            ;:height 0
+            ;:width 0
+            :space-evenly "false"
             :orientation "v"
-            (label :class "weather_label" :text "test")
-            (literal :content get_noti)
+            ;(label :halign "start" :valign "start" :class "notification_label" :text "test3"  :width 150 )
+            (box :orientation "h" :space-evenly "false"  :height 100 :vexpand "false" 
+            :hexpand "false"
+                ;(label :class "notification_label" :text "test"  :width 150 :halign "fill ":valign "fill")
+                (box :class "notification_label" :width 50 :orientation "v" :space-evenly "false" :valign "center"
+                    (label :text "Notifications")
+                    ;(label :text "Center")
+                )
+                (literal :content get_quote)
+                ;(Quote_of_day :q "Dont worry about a thang" :author "bob marley")
+               ;; )
+            )
+            ;(label :class "divider" :text "__________________________________________________________________________________________________________________________________________________________________________________________")
+            ;(literal :content get_noti)
             ;(box :space-evenly "true" :vexpand "false" :orientation "h" (notifcard)(notifcard))
-            ;(notifcard)
+           (box :space-evenly "true" :orientation "v" :width 200
+                ;(notifcard)
+                ;(notifcard)
+                ;(notifcard)
+                (notifcard)
+                (notifcard)
+                    (notifcard)
+                        (notifcard)
+                    ;(box :class "notifcard" :height 125 
+                    ;(label :text "hello in shell" :valign "center" :class "weather_label ")
+                    ;)
+
+            )
     )
 )
 
-(defwidget notifcard []
-    (label :text "hello in shell" :valign "center" :class "weather_label" )
+(defwidget Quote_of_day [q author] 
+    (box :orientation "v" :width 255
+        (box :orientation "v" :class "quote_card ":width 200
+            (label :class "quote" :text q :limit-width 60 :wrap "true" :width 25)
+            (label :valign "center" :text author)
+        )
+        
+    )
 )
+(defwidget notifcard []
+    (box :class "notifcar1" :height 125 :orientation "h" :space-evenly "false" :spacing 30
+        (label :class "notification_bell_icon" :text "" :width 70 )
+        (box :spacing 400
+            (label :text "hello in shell" :valign "center" :class "weather_label"  )
+        )
+    )
+   
+)
+
+;[?class summary body glyph ?glyph_class ?SL ?M ?L ?R]
+(defwidget card []
+    (eventbox :onmiddleclick "code"
+      :onclick "code"
+      :onrightclick "code"
+      :class "control-center-card-eventbox"
+      (box :space-evenly false
+        (label :class "control-center-glyph"
+        :text "glyph")
+        
+        (box :orientation "vertical"
+          :class "control-center-card"
+          :space-evenly false
+          :class "control-center-card-box"
+          
+          (box :space-evenly false
+            (label :limit-width 25
+              :wrap true
+              :text "this was the summary"
+              :class "control-center-summary"
+              :halign "start"
+            :hexpand true)
+            (button :onclick "code"
+              :class "control-center-card-notify-close"
+              :halign "end"
+              (label :text "󰅙")))
+          
+          (label :text "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            :class "control-center-separator"
+          :halign "center")
+          (label :limit-width 40
+            :halign "start"
+            :wrap true
+            :text "this is the body"
+          :class "control-center-body")))))
 
 (defwindow notif_area :stacking "overlay" :monitor 0 :focusable "false" :monitor 2 
     :geometry (geometry :x 3005 :y 140 :width 425 :height 600)
-(notification)
+    (notification)
 )

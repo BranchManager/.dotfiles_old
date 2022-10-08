@@ -1,0 +1,2 @@
+[2022-10-04 17:11:34.945] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+[2022-10-04 17:11:36.550] [renderer1] [warning] [backup tracker] suspended, ignoring dirty change event file:///home/branchmanager/.config/eww/eww.scss_other 

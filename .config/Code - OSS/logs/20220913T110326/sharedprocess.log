@@ -1,9 +1,0 @@
-[2022-09-13 11:03:28.164] [sharedprocess] [info] Starting worker process with pid 9616 (type: fileWatcher, window: 1).
-[2022-09-13 11:05:50.441] [sharedprocess] [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'then'): TypeError: Cannot read properties of undefined (reading 'then')
-    at a.onPromise (vscode-file://vscode-app/usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:23:5952)
-    at a.onRawMessage (vscode-file://vscode-app/usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:23:5245)
-    at vscode-file://vscode-app/usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:23:4526
-    at S.invoke (vscode-file://vscode-app/usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:19:145)
-    at g.deliver (vscode-file://vscode-app/usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:19:2266)
-    at C.fire (vscode-file://vscode-app/usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:19:1844)
-    at MessagePort.Z (vscode-file://vscode-app/usr/lib/code/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:17:23639)

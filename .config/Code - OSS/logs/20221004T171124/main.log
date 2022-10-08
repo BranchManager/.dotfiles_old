@@ -1,0 +1,6 @@
+[2022-10-04 17:11:24.455] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-10-04 17:11:25.542] [main] [info] Starting extension host with pid 81282 (fork() took 6 ms).
+[2022-10-04 17:11:25.547] [main] [info] Starting extension host with pid 81283 (fork() took 3 ms).
+[2022-10-04 17:11:36.624] [main] [info] Extension host with pid 81283 exited with code: 0, signal: null.
+[2022-10-04 17:11:40.810] [main] [info] Waiting for extension host with pid 81282 to exit.
+[2022-10-04 17:11:40.817] [main] [info] Extension host with pid 81282 exited with code: 0, signal: null.
