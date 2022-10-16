@@ -62,8 +62,8 @@ class weather_class:
         subp.run(["eww","update","low=Low: "+self.min_tmp])
         subp.run(["eww","update","feels=feels like "+self.feels_like])
         subp.run(["eww","update","desc="+self.desc])
-        subp.run(["eww","update","sunrise=: "+self.sunrise])
-        subp.run(["eww","update","sunset= "+self.sunset])
+        subp.run(["eww","update","sunrise=:  "+self.sunrise])
+        subp.run(["eww","update","sunset=   "+self.sunset])
         print(self.icon_dict[self.icon])
 
     def set_important(self,data):

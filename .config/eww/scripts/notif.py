@@ -6,8 +6,18 @@ import sys
 dunst_hist = subp.run(["dunstctl","history"], capture_output=True, text=True)
 #subp.run(["eww","update","get_noti=(box :space-evenly \"true\" :vexpand \"false\" :orientation \"v\" (label :text \"hello in shell\" :valign \"center\" :class \"weather_label\" )(label :text \"hello in shell\" :valign \"center\" :class \"weather_label\" ))"])
 #print("(notifcard)")
-print("(box :space-evenly \"true\" :vexpand \"false\" :orientation \"v\" (notifcard)(notifcard))")
+#print("(box :space-evenly \"true\" :vexpand \"false\" :orientation \"v\" (notifcard)(notifcard))")
 #print(dunst_hist.stdout)
 dunst_json = json.loads(dunst_hist.stdout)
 #(label :text \"hello in shell\" :valign \"center\" :class \"weather_label\" )(label :text \"hello in shell\" :valign \"center\" :class \"weather_label\" )
-#print(dunst_json["data"][0][1])
+print(dunst_json["data"][0][1])
+
+'''for loop up until 4th notification
+        check if it exists
+            grab appname
+            summary
+            and message
+            
+            if appname has icon
+                get icon path using appname
+            '''

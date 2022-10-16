@@ -2,6 +2,8 @@
 ;(defvar get_noti "(label :text \"hello in var\" :valign \"center\" :class \"weather_label\" )")
 (deflisten get_noti "python3 /home/branchmanager/.config/eww/scripts/notif.py")
 (deflisten get_quote "python3 /home/branchmanager/.config/eww/scripts/Quote.py")
+(defvar qq "Life before death, strength before weakness, journey before destination")
+(defvar auth "-Brandon Sanderson")
 ;(defvar get_noti "run notif")
 (defwidget user [] 
 	(box :class "genwin":orientation "v" :spacing 0 :space-evenly "false" :vexpand "false" :hexpand "false"
@@ -11,7 +13,7 @@
 		;(label :class "username" :halign "center" :wrap "true" :limit-width 2 :text "branchmanager")
         ))
 
-(defwindow profile :stacking "fg" :focusable "true" :monitor 0 :exclusive "true"
+(defwindow profile :stacking "fg" :focusable "true" :monitor 2 :exclusive "true"
 	    :geometry (geometry :x 150 :y 150 :width 141 :height 145)
 					(user))
 
@@ -48,18 +50,19 @@
 					(bully))
 
 
-(defwindow mainbg :stacking "fg" :focusable "false" :monitor 2 :windowtype "dock"
+(defwindow mainbg :stacking "fg" :focusable "false" :monitor 2 ;
+;:windowtype "dock"
     :geometry (geometry :x 0 :y 0 :anchor "top right" :width 450 :height 1400)
     (mainbg))
 
 (defwidget mainbg []
-    (revealer :transition "crossfade" :reveal showw :duration "550ms"
+    ;(revealer :transition "crossfade" :reveal showw :duration "550ms"
         (box :class "the_main_bg" :orientation "v"
         
         )
-    )
+    ;)
 )
-(defwindow profile :stacking "overlay" :monitor 0 :focusable "false" :monitor 2
+(defwindow profile :stacking "overlay" :monitor 2 :focusable "false"
   :geometry (geometry :x 3005 :y 10 :width 120 :height 120)
   (profile_box))
 (defwidget profile_box []
@@ -149,7 +152,7 @@
     
 )
 
-(defwindow weather :stacking "overlay" :monitor 0 :focusable "false" :monitor 2
+(defwindow weather :stacking "overlay" :monitor 2 :focusable "false" :monitor 2
   :geometry (geometry :x 3135 :y 10 :width 295 :height 120)
   (weather))
 ;https://api.openweathermap.org/data/2.5/weather?appid=
@@ -177,7 +180,10 @@
                     (label :text "Notifications")
                     ;(label :text "Center")
                 )
-                (literal :content get_quote)
+                ;(box :orientaion "v" :height 200
+                    ;(literal :content get_quote)
+                    (Quote_of_day :q qq :author auth)
+                ;)
                 ;(Quote_of_day :q "Dont worry about a thang" :author "bob marley")
                ;; )
             )
@@ -185,13 +191,13 @@
             ;(literal :content get_noti)
             ;(box :space-evenly "true" :vexpand "false" :orientation "h" (notifcard)(notifcard))
            (box :space-evenly "true" :orientation "v" :width 200
-                ;(notifcard)
-                ;(notifcard)
-                ;(notifcard)
                 (notifcard)
                 (notifcard)
-                    (notifcard)
-                        (notifcard)
+                (notifcard)
+                (notifcard)
+                ;(notifcard)
+                    ;(notifcard)
+                        ;(notifcard)
                     ;(box :class "notifcard" :height 125 
                     ;(label :text "hello in shell" :valign "center" :class "weather_label ")
                     ;)
@@ -199,19 +205,32 @@
             )
     )
 )
-
+(defvar redd "false")
+;(defvar justquotes "...  ")
+;(defvar how_wide)
 (defwidget Quote_of_day [q author] 
-    (box :orientation "v" :width 255
-        (box :orientation "v" :class "quote_card ":width 200
-            (label :class "quote" :text q :limit-width 60 :wrap "true" :width 25)
-            (label :valign "center" :text author)
+    (box :orientation "v" :width 255 :height 100 :vexpand "false" :space-evenly "false"
+    ;:class "quote_card" 
+        ;(transform :scale-x "200px"
+        (button :class "quote_card" :onclick "eww open full_quote" :width 200
+            (box :orientation "v" :width 200 :space-evenly "false"
+            ;(button :class "quote_card" :onclick "code"
+                (label :class "quote" :text q :limit-width 90 :wrap "true" :width 25)
+                
+          
+                
+                (label :valign "center" :text author)
+            )
         )
+       
         
     )
 )
 (defwidget notifcard []
     (box :class "notifcar1" :height 125 :orientation "h" :space-evenly "false" :spacing 30
-        (label :class "notification_bell_icon" :text "" :width 70 )
+        (image :class "notification_bell_icon" :path "/home/branchmanager/.config/eww/images/icons/Spotify.svg" :image-width 80 :image-height 80 :width 100)
+        ;(label :class "notification_bell_icon"  :width 70 :text "" :width 70 )
+        ;:style "background-image: url('/home/branchmanager/Pictures/profile_pics/Branch_ManagerAvatar.jpg')"
         (box :spacing 400
             (label :text "hello in shell" :valign "center" :class "weather_label"  )
         )
@@ -220,42 +239,49 @@
 )
 
 ;[?class summary body glyph ?glyph_class ?SL ?M ?L ?R]
-(defwidget card []
-    (eventbox :onmiddleclick "code"
-      :onclick "code"
-      :onrightclick "code"
-      :class "control-center-card-eventbox"
-      (box :space-evenly false
-        (label :class "control-center-glyph"
-        :text "glyph")
-        
-        (box :orientation "vertical"
-          :class "control-center-card"
-          :space-evenly false
-          :class "control-center-card-box"
-          
-          (box :space-evenly false
-            (label :limit-width 25
-              :wrap true
-              :text "this was the summary"
-              :class "control-center-summary"
-              :halign "start"
-            :hexpand true)
-            (button :onclick "code"
-              :class "control-center-card-notify-close"
-              :halign "end"
-              (label :text "󰅙")))
-          
-          (label :text "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-            :class "control-center-separator"
-          :halign "center")
-          (label :limit-width 40
-            :halign "start"
-            :wrap true
-            :text "this is the body"
-          :class "control-center-body")))))
 
-(defwindow notif_area :stacking "overlay" :monitor 0 :focusable "false" :monitor 2 
-    :geometry (geometry :x 3005 :y 140 :width 425 :height 600)
+
+(defwindow notif_area :stacking "overlay" :monitor 2 :focusable "false" :monitor 2 
+    :geometry (geometry :x 2995 :y 140 :width 445 :height 600)
     (notification)
+)
+
+(defwidget da_full_quote []
+    ; [q author]
+    ;(box :orientation "v" :width 255 :height "110"
+        
+    
+    (box  :class "full_quote_card_outer" :orientation "v" :width 250 :height 100
+
+        ;(label :class "quote" :text q :limit-width 60 :wrap "true")
+        ;(label :valign "center" :text author)
+        (button :class "full_quote_card" :onclick "eww close full_quote"
+        (box  :valign "center" :orientation "v" :width 250 :height 25 :space-evenly "false"
+            
+        ;(button :class "quote_card" :onclick "code"
+                (label  :text qq :wrap "true" )
+            
+            
+                (label :valign "center" :text auth)
+            )
+        )
+    )
+        
+        ;(label :class "quote" :text q :limit-width 60 :wrap "true")
+        ;(label :valign "center" :text author) )
+    
+    
+        
+    ;)
+)
+
+(defwindow profile2 :stacking "fg" :focusable "true" :monitor 2 :exclusive "true"
+	    :geometry (geometry :x 1720 :y 600 :width 141 :height 145)
+					(user))
+
+
+
+(defwindow full_quote :stacking "fg" :monitor 2 :focusable "true" :monitor 2 
+    :geometry (geometry :x 1500 :y 600 :width 300 :height 100 )
+    (da_full_quote)
 )

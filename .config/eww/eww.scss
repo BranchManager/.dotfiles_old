@@ -1,11 +1,16 @@
 
 //////////////////////////////delete above//////////////////////////////////////////
 $bg-alt: #24273a;
-.bg {
+
+*{
+	all: unset;
+}
+//all: revert-layer;
+/*.bg {
 	//background-image: url("images/bg.png");
 	background-color: #474D59;
 	opacity: 0.2;
-}
+}*/
 .genwin {
 	background-color: #D46389;
     //#2E3440;
@@ -47,7 +52,8 @@ $bg-alt: #24273a;
 }
 
 .the_main_bg{
-	color: #2d3436;
+	//all: unset;
+	background-color: #181926;
 	//#24273a;
 	border-left: 3px solid #5b6078;
 }
@@ -145,11 +151,35 @@ $bg-alt: #24273a;
 	box-shadow: 1px 1px 5px black;
 	border-radius:7px;
 }
-.quote_card:active{
+.quote_card:hover{
+	//background-color: ;
+	box-shadow: 0px 0px 0px black;
+
+}
+.full_quote_card{
+	
+	
 	background-color: #414559;
-	margin: 10px;
-	//box-shadow: 1px 1px 5px black;
+	//background: unset;
+	//\\\
+	//all: unset;
+	//opacity: 1.00;
+	//#414559;
+	margin: 10px 10px;
+	//background: unset;
+	box-shadow: 1px 1px 10px black;
 	border-radius:7px;
+}
+
+.full_quote_card:hover{
+	box-shadow: 0px 0px 0px black;
+}
+.full_quote_card_outer{
+	
+	
+	background-color: #181926;
+	//#24273a;
+	border: 3px solid #5b6078;
 }
 .Quote_label{
  color: #e5c890;
@@ -159,4 +189,10 @@ $bg-alt: #24273a;
 	margin-top: 5px;
 	margin-right: 5px;
 	margin-left: 5px;
+}
+
+.tread{
+
+	//height: 100 px;
+	box-shadow: 1px 1px 5px black;
 }

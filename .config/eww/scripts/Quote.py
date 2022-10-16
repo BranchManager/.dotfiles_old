@@ -2,6 +2,8 @@
 
 from statistics import quantiles
 from pybrainyquote import *
+import os
+import subprocess as subp
 
 Quote.today(topic="Love")
 Quote_tosee=Quote.today().content
@@ -17,11 +19,17 @@ author = author.replace("\n","")
 #print(len(Quoteasis))
 Orig_Quote = Quoteasis
 if len(Quoteasis) > 51:
-    Quoteasis = "  "+Quoteasis[0:51]+"...  "
-    #print(Quoteasis)
+    Quoteasis = "  "+Quoteasis +"  "
+    #[0:60]
+    #quotes = "...  "
+  
+    #print(Quoteasis) the limit was 51
 else:
-    Quoteasis = "  "+Quoteasis+"...  "
+    Quoteasis = "  "+Quoteasis+"  "
 
 
-
-print("(Quote_of_day :q \""+Quoteasis+ "\" :author \"" + author +"\" )")
+#print("(Quote_of_day :q \""+Quoteasis+ "\" :author \"-" + author +"\" )")
+subp.run(["eww","update","qq="+Quoteasis])
+subp.run(["eww","update","auth="+author])
+file = open("/home/branchmanager/.config/eww/scripts/quote_of_theDay.txt","w")
+file.write(Orig_Quote)
