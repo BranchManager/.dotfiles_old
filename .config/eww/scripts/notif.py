@@ -25,20 +25,26 @@ for i in range(len(dunst_json["data"][0][0:10])):
     appname = dunst_json["data"][0][i]["appname"]["data"]
     button_index = str(i)
     #print(message + summary + appname)
-
+    message = message.replace("\n", "")
+    #print(message)
     icon_path = "/home/branchmanager/.config/eww/images/icons/"+appname+".svg"
 
     if(not(os.path.exists(icon_path))):
-        icon_path = "/home/branchmanager/.config/eww/images/icons/notifbell.svg"
-
-    print(icon_path)
-    print(updated_button)
-
-    #print(exists)
+        icon_path = "/home/branchmanager/.config/eww/images/icons/bellnotif.svg"
+    next_notif = "(notifcard :rev \"${reveal"+button_index+"}\" :appname \""+appname+ "\" :icon_path \""+icon_path+"\" :summary \""+summary +"\" :message \""+message+"\" :butt \""+button_script+button_index+"\" )"
+    final_string = final_string + next_notif
+    
+    if i == 1:
+        break
+   #print(icon_path)
+    #print(next_notif +"\n")
+    #break
+    #print(final_string)
+    #final_string = ""
     #icon_class = appname+"_class"
     #else:
     #    print("nada")
-    
+print(final_string)  
 '''for loop up until 4th notification
         check if it exists
             grab appname
