@@ -92,6 +92,16 @@ $bg-alt: #24273a;
 	color: #FFF;
 	//margin: 0px 20px 0px 0px;
 }
+
+.thunderbird_icon{
+	//height: 50;	
+	background-color: red;
+
+}
+.notif_label{
+	font-family: "Ubuntu Nerd Font";
+	color: #FFF;
+}
 .weather_icon{
 	color: #FFF;
 	font-size: 28px;
@@ -136,6 +146,20 @@ $bg-alt: #24273a;
 	margin: 10px;
 	box-shadow: 3px 3px 5px black;
 	border-radius:7px;
+	//box-shadow: #000;
+}
+.notifcar1:hover{
+	//background-color: #414559;
+	//margin: 10px;
+	box-shadow: 1px 1px 3px pink;
+	//border-radius:7px;
+	//box-shadow: #000;
+}
+.notifcar1:active{
+	//background-color: #414559;
+	//margin: 10px;
+	box-shadow: 1px 1px 0px pink;
+	//border-radius:7px;
 	//box-shadow: #000;
 }
 	//color: orange;

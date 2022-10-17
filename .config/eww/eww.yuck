@@ -4,6 +4,17 @@
 (deflisten get_quote "python3 /home/branchmanager/.config/eww/scripts/Quote.py")
 (defvar qq "Life before death, strength before weakness, journey before destination")
 (defvar auth "-Brandon Sanderson")
+(defvar reveal0 "false")
+(defvar reveal1 "false")
+(defvar reveal2 "false")
+(defvar reveal3 "false")
+(defvar reveal4 "false")
+(defvar reveal5 "false")
+(defvar reveal6 "false")
+
+(defvar reveal8 "false")
+(defvar reveal9 "false")
+        
 ;(defvar get_noti "run notif")
 (defwidget user [] 
 	(box :class "genwin":orientation "v" :spacing 0 :space-evenly "false" :vexpand "false" :hexpand "false"
@@ -190,18 +201,28 @@
             ;(label :class "divider" :text "__________________________________________________________________________________________________________________________________________________________________________________________")
             ;(literal :content get_noti)
             ;(box :space-evenly "true" :vexpand "false" :orientation "h" (notifcard)(notifcard))
-           (box :space-evenly "true" :orientation "v" :width 200
-                (notifcard)
-                (notifcard)
-                (notifcard)
-                (notifcard)
-                ;(notifcard)
-                    ;(notifcard)
-                        ;(notifcard)
-                    ;(box :class "notifcard" :height 125 
-                    ;(label :text "hello in shell" :valign "center" :class "weather_label ")
-                    ;)
+            (scroll :vscroll "true"  :height 500 :width 200
+                (box :space-evenly "false" :orientation "v" :width 200
+                        (notifcard :rev "${reveal1}" :appname "spotify" :icon_path "/home/branchmanager/.config/eww/images/icons/Discord.svg" :summary "slow down" :message "slow down \nForrest. - slow down" )
+                        (notifcard :rev "${reveal2}" :appname "discord" :icon_path "/home/branchmanager/.config/eww/images/icons/Firefox.svg" :summary "slow down" :message "slow down \nForrest. - slow down" )
+                        (notifcard :rev "${reveal2}" :appname "discord" :icon_path "/home/branchmanager/.config/eww/images/icons/Thunderbird.svg" :summary "slow down" :message "slow down \nForrest. - slow down" )
+                        (notifcard :rev "${reveal2}" :appname "discord" :icon_path "/home/branchmanager/.config/eww/images/icons/Thunderbird.svg" :summary "slow down" :message "slow down \nForrest. - slow down" )
+                        (notifcard :rev "${reveal2}" :appname "discord" :icon_path "/home/branchmanager/.config/eww/images/icons/bellnotif.svg" :summary "slow down" :message "slow down \nForrest. - slow down" )
 
+                        ;(notifcard :rev "${reveal2}")
+                        ;(notifcard :rev "${reveal3}")
+                        ;(notifcard :rev "${reveal4}")
+                        ;(notifcard :rev "${reveal5}")
+                        ;notifcard [ rev icon_class appname icon_path summary message]
+                        
+                        ;(notifcard)
+                            ;(notifcard)
+                                ;(notifcard)
+                            ;(box :class "notifcard" :height 125 
+                            ;(label :text "hello in shell" :valign "center" :class "weather_label ")
+                            ;)
+
+                )
             )
     )
 )
@@ -226,13 +247,31 @@
         
     )
 )
-(defwidget notifcard []
-    (box :class "notifcar1" :height 125 :orientation "h" :space-evenly "false" :spacing 30
-        (image :class "notification_bell_icon" :path "/home/branchmanager/.config/eww/images/icons/Spotify.svg" :image-width 80 :image-height 80 :width 100)
-        ;(label :class "notification_bell_icon"  :width 70 :text "" :width 70 )
-        ;:style "background-image: url('/home/branchmanager/Pictures/profile_pics/Branch_ManagerAvatar.jpg')"
-        (box :spacing 400
-            (label :text "hello in shell" :valign "center" :class "weather_label"  )
+(defwidget notifcard [ rev appname icon_path summary message ]
+    ;[icon_path message appname summary ]
+    (button :onclick "code"  :class "notifcar1"
+        (box  :height 105 :orientation "h" :space-evenly "false" :spacing 20
+        
+            (image :class "notification_bell_icon" :path icon_path :image-width 50 :image-height 50 :width 100)
+            ;(label :class "notification_bell_icon"  :width 70 :text "" :width 70 )
+            ;:style "background-image: url('/home/branchmanager/Pictures/profile_pics/Branch_ManagerAvatar.jpg')"
+            (box :evenly-spaced "true" :height 4 :width 50 :orientation "v"
+                (label :text appname :valign "end" :class "weather_label" :xalign 0)
+                (label :xalign 0 :text "_______________________________________" :valign "start" :class "notif_label")
+            
+                (label :xalign 0 :text summary :valign "start" :class "weather_label")
+                ;Note the reveal bool has to be called a specific way. since we dont want every card to reveal its full
+                ;message I have declared 10 boolean values up top for eachof the 10 notifications that may possibly be shown.
+                ;each notification will get there own reveal boolean value instance so that when it's activated
+                ;Only the one you select will activate
+                (revealer :transition "slidedown" :reveal rev :duration "1s" :vexpand "true" 
+                    (box :width 25 :spaced-evenly "true" :orientation "vertical" :vexpand "true"
+                        (label :text "message: " :wrap "true" :xalign 0)
+                        (label :text message :wrap "true" :xalign 0)
+                        ;(label :text "hello in shell3 the actual text" :class "weather_label")
+                    )
+                )
+            )
         )
     )
    
