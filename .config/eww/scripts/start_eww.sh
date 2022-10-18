@@ -1,3 +1,10 @@
+isopen=$( eww windows | grep mainbg | grep *mainbg )
+echo $isopen
 
-eww open-many mainbg weather profile notif_area
-python3 /home/branchmanager/.config/eww/scripts/weather.py
+if [ -z "$isopen" ]
+then
+    eww open-many mainbg profile weather notif_area
+    python3 ./scripts/weather.py
+else
+    eww close-all
+fi

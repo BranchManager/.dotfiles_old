@@ -14,7 +14,7 @@ dunst_hist = subp.run(["dunstctl","history"], capture_output=True, text=True)
 dunst_json = json.loads(dunst_hist.stdout)
 #(label :text \"hello in shell\" :valign \"center\" :class \"weather_label\" )(label :text \"hello in shell\" :valign \"center\" :class \"weather_label\" )
 #print(dunst_json["data"][0][1])
-final_string = ""
+final_string = "(box :space-evenly \"false\" :orientation \"v\" :width 200"
 button_script = "/home/branchmanager/.config/eww/scripts/toggle_fullQuote.sh reveal"
 for i in range(len(dunst_json["data"][0][0:10])):
     #print(len(dunst_json["data"][0][0:3]))
@@ -34,8 +34,8 @@ for i in range(len(dunst_json["data"][0][0:10])):
     next_notif = "(notifcard :rev \"${reveal"+button_index+"}\" :appname \""+appname+ "\" :icon_path \""+icon_path+"\" :summary \""+summary +"\" :message \""+message+"\" :butt \""+button_script+button_index+"\" )"
     final_string = final_string + next_notif
     
-    if i == 1:
-        break
+    #if i == 6:
+    #    break
    #print(icon_path)
     #print(next_notif +"\n")
     #break
@@ -44,7 +44,7 @@ for i in range(len(dunst_json["data"][0][0:10])):
     #icon_class = appname+"_class"
     #else:
     #    print("nada")
-print(final_string)  
+print(final_string + ")")   
 '''for loop up until 4th notification
         check if it exists
             grab appname

@@ -11,7 +11,7 @@
 (defvar reveal4 "false")
 (defvar reveal5 "false")
 (defvar reveal6 "false")
-
+(defvar reveal7 "false")
 (defvar reveal8 "false")
 (defvar reveal9 "false")
         
@@ -202,7 +202,7 @@
             ;(literal :content get_noti)
             ;(box :space-evenly "true" :vexpand "false" :orientation "h" (notifcard)(notifcard))
             (scroll :vscroll "true"  :height 500 :width 200
-                (box :space-evenly "false" :orientation "v" :width 200
+                ;(box :space-evenly "false" :orientation "v" :width 200
                         ;(notifcard :rev "${reveal1}" :appname "spotify" :icon_path "/home/branchmanager/.config/eww/images/icons/Discord.svg" :summary "slow down" 
                         ;:message "slow down \nForrest. - slow down" :butt "/home/branchmanager/.config/eww/scripts/toggle_fullQuote.sh reveal1" )
                         ;(notifcard :rev "${reveal2}" :appname "discord" :icon_path "/home/branchmanager/.config/eww/images/icons/Firefox.svg" :summary "slow down" :message "slow down \nForrest. - slow down" )
@@ -225,7 +225,7 @@
                             ;(label :text "hello in shell" :valign "center" :class "weather_label ")
                             ;)
 
-                )
+                ;)
             )
     )
 )
@@ -268,7 +268,7 @@
                 ;each notification will get there own reveal boolean value instance so that when it's activated
                 ;Only the one you select will activate
                 (revealer :transition "slidedown" :reveal rev :duration "1s" :vexpand "true" 
-                    (box :width 25 :orientation "vertical" :vexpand "true"
+                    (box :width 25 :orientation "vertical" :vexpand "true" :space-evenly "false"
                         (label :text "message: " :wrap "true" :xalign 0)
                         (label :text message :wrap "true" :xalign 0)
                         ;(label :text "hello in shell3 the actual text" :class "weather_label")
