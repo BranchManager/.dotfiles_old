@@ -1,7 +1,7 @@
 * {
     /* `otf-font-awesome` is required to be installed for icons */
     font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
-    font-size: 13px;
+    /*font-size: 13px;*/
 }
 
 window#waybar {
@@ -36,7 +36,7 @@ window#waybar.chromium {
 }
 
 #workspaces button {
-    padding: 0 5px;
+    padding: 0 1px;
     background-color: transparent;
     color: #ffffff;
     /* Use box-shadow instead of border so the text isn't offset */
@@ -98,11 +98,11 @@ window#waybar.chromium {
 #window,
 #workspaces {
     /*margin: 0 4px;*/
-    margin-bottom: 8px;
+    margin-bottom: 6px;
     margin-top:4px;
     background-color: #b7bdf8;
     border-radius: 5px;
-    padding: 0px 10px ;
+    padding: 0px 5px ;
     /*min-width: 100px*/
    
 }
@@ -119,13 +119,14 @@ window#waybar.chromium {
 }
 #custom-code{
     color: #8aadf4;
-    font-size: 34;
+    font-size: 20;
     padding-right:10px;
 }
 
 #custom-browser{
     color: #f5a97f;
-    font-size: 34;
+   
+    font-size: 20px;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -147,7 +148,7 @@ window#waybar.chromium {
 #custom-terminal{
     /*background-color: #5b6078;*/
     color:  #cad3f5;
-    font-size: 34;
+    font-size: 20;
     padding-left: 0px;
     padding-right: 10px;
     
@@ -156,7 +157,7 @@ window#waybar.chromium {
 #custom-folders{
     /*background-color: #5b6078;*/
     color:  #eed49f;
-    font-size: 34;
+    font-size: 20;
     padding-right: 10px;
     /*padding: 0 5px;*/
    
@@ -165,7 +166,7 @@ window#waybar.chromium {
 #custom-spotify{
     /*background-color: #5b6078;*/
     color:  #a6da95;
-    font-size: 34;
+    font-size: 20;
     padding-right: 10px;
     /*padding: 0 5px;*/
    
@@ -183,7 +184,7 @@ window#waybar.chromium {
 #custom-archeww{
     background-color: #5b6078;
     border-top-left-radius: 5px ;
-    font-size: 34;
+    font-size:20;
     color: #8aadf4;
     margin-top:4px;
     padding: 0 10px;
@@ -249,15 +250,15 @@ label:focus {
 }
 
 #network.ethernet{
-    
-    background-color: #a6da95;
+    background: rgba(0,0,0,0.0);
+    color: #a6da95;
     margin-bottom: 8px;
     margin-top:4px;
    /* background-color: #b7bdf8;*/
    font-size: 24;
     border-radius: 5px;
-    padding: 0px 10px ;
-    color:  	#cad3f5;
+    padding: 0px 10px 0px 0px ;
+    
 }
 
 
@@ -274,13 +275,12 @@ label:focus {
 }
 
 #pulseaudio {
-    background-color: #f5bde6;
+    color: #c6a0f6;
     margin-bottom: 8px;
     margin-top:4px;
    /* background-color: #b7bdf8;*/
-    border-radius: 5px;
-    padding: 0px 10px ;
-    color: #24273a;
+   /* border-radius: 5px;*/
+    padding: 0px 0px ;
 }
 
 #pulseaudio.muted {
@@ -290,14 +290,15 @@ label:focus {
 
 #custom-power{
     
-    background-color: #ee99a0;
-    margin-bottom: 8px;
+    /*background-color: #ee99a0;*/
+    margin-bottom: 3px;
     margin-top:4px;
    /* background-color: #b7bdf8;*/
-   font-size: 24;
+    font-size: 20;
     border-radius: 5px;
-    padding: 0px 10px ;
-    color:  	#cad3f5;
+   padding: 0px 7px 0px 3px;
+    /*color:  	#cad3f5;*/
+    color: #ee99a0;
 }
 
 #custom-media {

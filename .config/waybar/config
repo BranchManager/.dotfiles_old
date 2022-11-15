@@ -27,8 +27,8 @@
     // },
 
     "custom/archeww":{
-        "format": ""
-
+        "format": "",
+	"on-click":"~/.config/eww/scripts/start_eww.sh"
     },
     "custom/menu": {
         "format": "",
