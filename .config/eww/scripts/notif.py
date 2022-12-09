@@ -31,6 +31,12 @@ for i in range(len(dunst_json["data"][0][0:10])):
 
     if(not(os.path.exists(icon_path))):
         icon_path = "/home/branchmanager/.config/eww/images/icons/bellnotif.svg"
+    message = message.replace('"','')
+    summary = summary.replace('"','')
+    message = message.replace('\n',';')
+    summary = summary.replace('\n',';')
+    message = message.replace('-&gt;','->')
+    summary = summary.replace('-&gt;','->')
     next_notif = "(notifcard :rev \"${reveal"+button_index+"}\" :appname \""+appname+ "\" :icon_path \""+icon_path+"\" :summary \""+summary +"\" :message \""+message+"\" :butt \""+button_script+button_index+"\" )"
     final_string = final_string + next_notif
     
@@ -45,6 +51,26 @@ for i in range(len(dunst_json["data"][0][0:10])):
     #else:
     #    print("nada")
 print(final_string + ")")   
+
+'''(box :space-evenly "false" :orientation "v" :width 200
+(notifcard :rev "${reveal0}" 
+:appname "Thunderbird" 
+:icon_path "/home/branchmanager/.config/eww/images/icons/Thunderbird.svg"
+:summary "acebranchmanager@gmail.com received 195 new messages" 
+:message "acebranchmanager@gmail.com received 195 new messages "Vestiges" by Ángel García from Poem-a-Day | Poets.org" 
+:butt "/home/branchmanager/.config/eww/scripts/toggle_fullQuote.sh reveal0" )
+(notifcard :rev "${reveal1}" :appname "discord" :icon_path "/home/branchmanager/.config/eww/images/icons/discord.svg" :summary "Exabyte (#counting)" :message "Exabyte (#counting) 1424" :butt "/home/branchmanager/.config/eww/scripts/toggle_fullQuote.sh reveal1" ))
+
+#the below worked but the above didn't I bet it had to do with the quotes in the message. 
+#quotes in any part may be an issue
+(box :space-evenly "false" :orientation "v" :width 200
+(notifcard :rev "${reveal0}" 
+:appname "Thunderbird" 
+:icon_path "/home/branchmanager/.config/eww/images/icons/Thunderbird.svg" 
+:summary "acebranchmanager@gmail.com received 3 new messages" 
+:message "acebranchmanager@gmail.com received 3 new messages Your Goulet Pens Order S1528786 is ready to be shipped! from The Goulet Pen Company" 
+:butt "/home/branchmanager/.config/eww/scripts/toggle_fullQuote.sh reveal0" )
+(notifcard :rev "${reveal1}" :appname "discord" :icon_path "/home/branchmanager/.config/eww/images/icons/discord.svg" :summary "haylagrace13" :message "haylagrace13 hi bitch" :butt "/home/branchmanager/.config/eww/scripts/toggle_fullQuote.sh reveal1" ))'''
 '''for loop up until 4th notification
         check if it exists
             grab appname
