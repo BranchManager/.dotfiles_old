@@ -58,8 +58,8 @@ case $chosen in
         fi
         ;;
     $lock)
-		if [[ -f /usr/bin/Hyprland ]]; then
-			~/.config/waybar/swaylock_min.sh
+		if [[ "$DESKTOP_SESSION" == "sway"  ]]; then
+			/home/noah/Utitlities
 		elif [[ -f /usr/bin/betterlockscreen ]]; then
 			betterlockscreen -l
 		fi
@@ -83,8 +83,8 @@ case $chosen in
 				openbox --exit
 			elif [[ "$DESKTOP_SESSION" == "bspwm" ]]; then
 				bspc quit
-			elif [[ "$DESKTOP_SESSION" == "i3" ]]; then
-				i3-msg exit
+			elif [[ "$DESKTOP_SESSION" == "sway" ]]; then
+				sway exit
 			elif [[ "$DESKTOP_SESSION" == "Hyprland" ]]; then
 				killall -q Hyprland
 			fi

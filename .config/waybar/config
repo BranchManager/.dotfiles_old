@@ -6,29 +6,29 @@
     //"output": "DP-1",
     "spacing": 4, // Gaps between modules (4px)
     // Choose the order of the modules
-    "modules-left": ["custom/menu", "wlr/workspaces", "custom/browser", "custom/code", "custom/terminal","custom/folders","custom/spotify"],
+    "modules-left": ["custom/menu", "sway/workspaces", "custom/browser", "custom/code", "custom/terminal","custom/folders","custom/spotify"],
     "modules-center": ["clock"],
-    "modules-right": ["custom/vpn","pulseaudio", "network", "backlight", "keyboard-state", "sway/language", "battery", "battery#bat2", "custom/power","custom/archeww"],
+    "modules-right": ["pulseaudio", "network",  "custom/power","custom/archeww"],
     // Modules configuration
-    // "sway/workspaces": {
-    //     "disable-scroll": true,
-    //     "all-outputs": true,
-    //     "format": "{name}: {icon}",
-    //     "format-icons": {
-    //         "1": "",
-    //         "2": "",
-    //         "3": "",
-    //         "4": "",
-    //         "5": "",
-    //         "urgent": "",
-    //         "focused": "",
-    //         "default": ""
-    //     }
-    // },
+     "sway/workspaces": {
+         "disable-scroll": true,
+         "all-outputs": true,
+         "format": "{name}",
+         "format-icons": {
+             "1": "1",
+             "2": "2",
+             "3": "3",
+             "4": "3",
+             "5": "5",
+             "urgent": "",
+             "focused": "",
+             "default": ""
+         }
+     },
 
     "custom/archeww":{
-        "format": "",
-	"on-click":"~/.config/eww/scripts/start_eww.sh"
+        "format": ""
+
     },
     "custom/menu": {
         "format": "",
@@ -37,7 +37,7 @@
 
     "custom/browser":{
         "format": "",
-        "on-click": "sh -c '(sleep 0.2s; MOZ_ENABLE_WAYLAND=1 firefox)' & disown"
+        "on-click": "firefox"
     },
     "custom/code":{
         "format": "",
@@ -59,36 +59,23 @@
         "format": "",
         "on-click": "sh -c '(sleep 0.5s; ~/.config/waybar/rofi_configs/powermenu.sh)' & disown"
     },
-    "custom/vpn": {
-        /*Note that to change the class of this you will have to add it to the output of vpn_check.sh's json output see the waybar documentation*/
-        "format": "{icon} ",
-        "format-icons":{
-            "-": "",
-            "discon":""
-        },
-        "on-click":"/home/branchmanager/.config/eww/scripts/vpn_toggle.sh; sleep 1; pkill -SIGRTMIN+7 waybar",
-        "interval":20,
-        "exec": "/home/branchmanager/.config/eww/scripts/vpn_check.sh | jq --unbuffered --compact-output",
-        "return-type": "json",
-        "signal": 7
-    },
-    "wlr/workspaces": {
-         "disable-scroll": false,
-         "on-click": "activate",
-         "all-outputs": false,
-         "active-only":false,
-         "format": "{icon}",
-         "format-icons": {
-             "1": "1",
-             "2": "2",
-             "3": "3",
-             "4": "4",
-             "5": "5",
-             "urgent": "",
-             //"active": "T",
-             "default": ""
-         }
-     },
+   // "wlr/workspaces": {
+    //     "disable-scroll": false,
+    //     "on-click": "activate",
+    //     "all-outputs": false,
+    //     "active-only":false,
+    //     "format": "{icon}",
+    //     "format-icons": {
+    //         "1": "1",
+    //         "2": "2",
+    //         "3": "3",
+    //         "4": "4",
+    //         "5": "5",
+    //         "urgent": "",
+    //         //"active": "T",
+    //         "default": ""
+    //     }
+    // },
     "keyboard-state": {
         "numlock": true,
         "capslock": true,
