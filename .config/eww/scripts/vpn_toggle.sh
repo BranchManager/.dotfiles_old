@@ -4,6 +4,7 @@ if [[ $OUT == "-" ]]; then
     tailscale down
 elif [[ -z "$OUT" ]]; then
     tailscale up
+    tailscale up --ssh
     
 fi
 

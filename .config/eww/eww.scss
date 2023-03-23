@@ -315,3 +315,70 @@ $bg-alt: #24273a;
 	font-size: 20;
 	color: #8aadf4
 }
+
+/* Work scss classes following */
+
+.the_main_bg_work{
+	//all: unset;
+	background-color:#181926;
+	//#24273a;
+	border: 3px solid #5b6078;
+	border-radius: 7px;
+	padding: 0px 0px 10px;
+}
+
+.cal-box_work {
+	font-family: Product Sans;
+	
+	//background-color: red;
+	//#181926;
+	//border-radius: 7px;
+	//padding: 0 1rem .2rem;
+	color: #FFF;
+	//border: 12px solid red;
+	//background-color: $contrastbg;
+	//margin: 12px 12px 12px 12px;
+	//border: 12px solid red;
+  
+}
+.cal_work {
+	//background-color: inherit;
+	//padding: .5rem .10rem 0rem;
+	//font-size: 2px;
+	//margin: 10px 10px 10px;
+	//border-radius: 7px;
+	//border: 12px solid red;
+	padding: .5em;
+	//0 1rem .2rem;
+	
+	//#5b6078;
+
+	/*& > * {
+	  border: solid 0px transparent;
+	}
+	
+	&.highlight {
+	  padding: 10rem;
+	}*/
+  
+}
+
+.date_work {
+	background-color: #414559 ;
+	color: #414559;
+	border-radius: 1px;
+	border: 1px solid red;
+}
+
+.sys-monitor_work {
+	//margin-top: 50px;
+	margin: 35px 10px 10px;
+	//margin: 10px;
+}
+
+.sern_shortcut_workcss {
+	background-color: #414559;
+	border-radius: 7px;
+	
+
+}

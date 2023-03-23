@@ -18,8 +18,8 @@
 (defpoll calendar_day :interval "10h" "date '+%d'")
 (defpoll calendar_month :interval "10h" "date '+%m")
 (defpoll calendar_year :interval "10h" "date '+%Y'")
-(defpoll CPU_USAGE :interval "1s" "/home/branchmanager/test_script.sh")
-(defpoll MEM_USAGE :interval "1s" "/home/branchmanager/test_mem.sh")
+(defpoll CPU_USAGE :interval "1s" "./scripts/test_script.sh")
+(defpoll MEM_USAGE :interval "1s" "./scripts/test_mem.sh")
 
 (defpoll cover_art_url :interval "2s" "/home/branchmanager/.config/eww/scripts/get_spot_info.sh --cover")
 (defpoll artist :interval "2s" "/home/branchmanager/.config/eww/scripts/get_spot_info.sh --artist")
@@ -29,7 +29,24 @@
 (defvar remove_var "hello")
 (defvar play_pause "懶")
 (defvar shuff_repeat_class "spotify-off")
-(defvar shuff_repeat_class2 "spotify-off")        
+(defvar shuff_repeat_class2 "spotify-off") 
+(include "eww_work.yuck") 
+
+
+;(defwindow)
+(defwindow mainbg_work :stacking "fg" :focusable "false" :monitor 0 ;
+;:windowtype "dock"
+    :geometry (geometry :x 0 :y 0 :anchor "center" :width 0 :height 0)
+(mainbg_work))
+
+
+
+
+
+
+
+
+
 ;(defvar get_noti "run notif")
 (defwidget user [] 
 	(box :class "genwin":orientation "v" :spacing 0 :space-evenly "false" :vexpand "false" :hexpand "false"
