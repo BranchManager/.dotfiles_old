@@ -1,5 +1,5 @@
 swaylock \
-	--image /home/noah/Pictures/fox.jpg
+	--image /home/noah/Pictures/chill_bike.jpg
 	--indicator-radius 100 \
 	--indicator-thickness 7 \
 	--ring-color bb00cc \
@@ -8,4 +8,4 @@ swaylock \
 	--inside-color 232634 \
 	--separator-color 00000000 \
 	--font 'Ubuntu Nerd Font'\
-	 --text-color 8caaee
+	--text-color 8caaee

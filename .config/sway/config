@@ -27,8 +27,8 @@ include /etc/sway/config-vars.d/*
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
 #output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
-output DP-4 bg /home/noah/Pictures/fox.jpg fill
-output DP-3 bg /home/noah/Pictures/fantasy_tree.jpg fill
+output DP-4 bg /home/noah/Pictures/miles_morales.jpg fill
+output DP-3 bg /home/noah/Pictures/miles_morales.jpg fill
 #
 # Example configuration:
 #
@@ -36,7 +36,7 @@ output DP-3 bg /home/noah/Pictures/fantasy_tree.jpg fill
 #
 # You can get the names of your outputs by running: swaymsg -t get_outputs
 
-output DP-4 pos 0 0 res 3840x2160
+output DP-1 pos 0 0 res 3840x2160
 output DP-3 pos 3840 0 res 1080x1920 transform 270
 
 #The below code is noahs junk
@@ -87,7 +87,7 @@ exec autotiling
     # Start a terminal
     bindsym $mod+Return exec $term
     #lock machine with sway lock
-     bindsym $mod+shift+l exec /home/noah/Utilities/swaylockhere.sh
+     bindsym $mod+shift+l exec /home/noah/.config/sway/swaylockhere.sh
     # Kill focused window
     bindsym $mod+q kill
 
